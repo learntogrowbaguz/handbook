@@ -20,7 +20,7 @@ We don't expect everyone on the team to figure this out on their own. Other team
 
 ## Basics
 
-- [GitHub Basics](../../company-info-and-process/onboarding/git-intro/index.md)
+- [GitHub Basics](../../departments/people-talent/git-intro.md)
 - [Markdown Tips & Resources](markdown-resources.md)
 - [Reviewing & Approving Another Person's Proposal](reviewing-a-proposal.md)
 - [Announcing Important Updates](announcing-handbook-updates.md)
@@ -39,7 +39,6 @@ We don't expect everyone on the team to figure this out on their own. Other team
 - [Linking Within the Handbook](linking-within-handbook.md)
 - [Moving a Page](move-a-page.md)
 - [Deleting a Page](delete-a-page.md)
-- [Editing the Handbook Product](editing-the-handbook-product.md)
 - [Hiding the sidebar](hiding-the-sidebar.md)
 
 ## Advanced topics

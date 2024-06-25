@@ -10,6 +10,8 @@ _The below workflows are intended to help guide managers when requesting approva
 1. Select the type of change you'd like to make from the drop down menu
 1. Follow the workflow (instructions for each workflow below) and submit for approval
 
+People Ops will monitor the approval process and reach out to approvers via slack if they need a reminder to review/approve the request.
+
 ## Requesting a compensation change (cash only)
 
 _Use for changes to cash compensation (base salary) only. Use cases include: merit increase and market (compensation band) adjustments. When filling out the form, you only need to edit the field(s) that need updating, you can leave other fields as is._
@@ -87,7 +89,30 @@ Use for promotions only– promotions include changes impacting compensation _an
 
 ## Large-Scale Changes / Re-Orgs
 
-Please notify and consult with your designated People Partner to work through department-level changes prior to making any changes effective. The People Partner will then work with the People, Talent, Tech-Ops, and Finance teams to ensure a smooth transition for any teammates impacted.
+Please notify and consult with your designated People Partner to work through department-level changes prior to making any changes effective.
+
+**People Partner responsiblities**
+
+The People Partner will then work with the People, Talent, Tech-Ops, and Finance teams to ensure a smooth transition for any teammates impacted.
+
+1. People Partners will work with the requesting department to confirm all changes/re-org details.
+2. Once finalized, the People Partner will share the details with People Ops and will ensure the division/department/cost center [source of truth doc](https://docs.google.com/spreadsheets/d/1V39M4m1_anbYiVdlVQRzwVTgbaWtxPXFnz6WXaCjwCY/edit#gid=1307229143) is updated.
+3. The People Partner will submit the change requests in BambooHR.
+
+**People Ops responsiblities**
+
+1. Once the People Partner has shared the details and submitted the change requests:
+
+If new departments and/or divisions are being implemented:
+
+- People Ops will loop in Tech Ops by triggering the Department/Division Change workflow in Process St and wait for Tech Ops to complete their task before making any Bamboo updates.
+
+If new cost centers are being implemented:
+
+- People Ops will also loop in Finance via #wg-bamboo-org-updates and will wait for their confirmation prior to making any Bamboo updates.
+
+2. People Ops will give final approval on change requests in Bamboo
+3. Archive any divisions that are no longer in use (if applicable)
 
 ## FAQs
 

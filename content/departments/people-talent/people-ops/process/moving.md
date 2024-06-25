@@ -23,7 +23,7 @@ Please update your home address and work address in [BambooHR](https://help.bamb
 
 ## Cross-border moves
 
-Moving to another country? Notify [people-ops@sourcegraph.com](mailto:people-ops@sourcegraph.com) of your intent to work in a new location, as well as when you expect to begin working from that location. Notify the People Team at least 30 days prior to your planned move.
+Moving to another country? Moving cross-border is more complex with taxes, and possible visa requirements. Notify people-ops@sourcegraph.com of your intent to work in a new location, as well as when you expect to begin working from that location and we will begin the approval process. Notify the People Team **at least** 30 days prior to your planned move.
 
 Cross-border moves require require the following:
 
@@ -54,3 +54,7 @@ We cannot support or employ candidates or teammates in any of these countries du
 - Ukraine (case by case - notify People Ops)
 
 Looking for information about [how we engage talent worldwide](how-we-engage-talent-outside-the-us/index.md)?
+
+## **People Team Resources**
+
+- Interal processes doc for Bamboo location changes found [here](https://docs.google.com/document/d/1RPQ1aqbHtUPQXviwa7uSEaomB2-tery0DvI55iZHEHY/edit)

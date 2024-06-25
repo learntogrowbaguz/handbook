@@ -2,7 +2,7 @@
 
 ## Process overview
 
-> NOTE: This documentation covers only the mechanics of adding a blog post, not considerations such as who needs to approve your post or when it should be published.
+> [!NOTE] This documentation covers only the mechanics of adding a blog post, not considerations such as who needs to approve your post or when it should be published. If you have a technical blog post idea and are struggling to make it a reality, [contact the DevRel team](process/blog_post_help.md).
 
 1. Create an outline and request a reviewer
 2. Create a draft of your blog post in Google Docs and request a reviewer
@@ -47,8 +47,6 @@ If you do this, please add the **frontmatter** to the beginning of the file, fro
 
 ## Using the Blog Post Starter Pack
 
-The Content Platform Team maintains a template Markdown file that exposes all of the content components available for use in the blog. You can directly copy and paste components from this file into your post. It's important to use the components provided for tables, images, alerts, youtube videos, external or self hosted videos, and HubSpot forms to ensure our blog posts are uniform in styling.
-
 Access the template in the About repository: [`/content/blogposts/blog-post-starter-pack.md`](https://github.com/sourcegraph/about/tree/main/content/blogposts/blog-post-starter-pack.md).
 
 To use the template, copy the above file and paste it in the appropriate year folder (i.e. `/content/blogposts/2022/`). Rename the file to the slug the post will be, or something similar. Edit the markdown content accordingly. All available standardized components are ready to be changed right in this file!
@@ -68,7 +66,7 @@ To ensure uniformity between commonly used content items, please use the followi
   <li>HubSpotForm</li>
 </ol>
 
-> NOTE: **Reference the [Blog Post Starter Pack](#using-the-blog-post-starter-pack) for use case examples.**
+> [!NOTE] **Reference the [Blog Post Starter Pack](#using-the-blog-post-starter-pack) for use case examples.**
 
 <hr />
 

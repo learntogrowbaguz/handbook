@@ -3,17 +3,14 @@
 Our README expands on our profile in [the company team directory](../../../../team/index.md) and are meant to help us orient to one another.
 
 - Alex [README](alex-readme.md)
+- Enrique [README](enrique-readme.md)
 - Gabe [README](gabe-readme.md)
-- Jason [README](jason-readme.md)
 - Jon [README](jon-readme.md)
 - Mariam [README](mariam-readme.md)
 - Michael [README](michael-readme.md)
-- Stompy [README](stompy-readme.md)
-- Warren [README](warren-readme.md)
-- Shawnteé [README](shawntee-readme.md)
+- Morgan [README](morgan-readme.md)
 - Rakesh [README](rakesh-readme.md)
-- Enrique [README](enrique-readme.md)
-- Marc [README](marc-readme.md)
+- Stompy [README](stompy-readme.md)
 
 The format, style, order, etc is up to each of us. Just make sure to include the following to the degree you feel at ease to do so; feel free to add/remove as you see fit:
 

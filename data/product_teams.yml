@@ -1,73 +1,43 @@
 # yaml-language-server: $schema=../schema/product_teams.schema.json
 
-search_product:
-  title: Search Product
-  brief: The search product team owns all parts of Sourcegraph that help users Compose search queries and navigate search results
-  strategy_link: /strategy-goals/strategy/search/product/index.md
-  pm: steve_yegge
-  em: erika_rice_scherpelz
+code_search:
+  title: Code Search
+  brief: The Code Search team provides features built on top of search
+  em: peter_guy
+  design: taiyab_raja
   issue_labels:
-    - team/search-product
+    - code-search
 
-search_core:
-  title: Search Core
-  brief: The search core team owns all parts of Sourcegraph that map an interpreted search query to a set of results
+search_platform:
+  title: Search Platform
+  brief: The Search Platform Team provides information retrieval on top of data sources
   strategy_link: /strategy-goals/strategy/search/core/index.md
-  em: erika_rice_scherpelz
   design: rob_rhyne
+  em: matt_manela_search_platform
   issue_labels:
     - team/search-core
-
-code_intelligence:
-  title: Code Intelligence
-  brief: Code intelligence provides features and services that help developers better understand and navigate code.
-  strategy_link: /strategy-goals/strategy/code-intelligence/index.md
-  em: owen_convey
-  pmm: alex_isken
-  issue_labels:
-    - team/code-intelligence
-
-batch_changes:
-  title: Batch Changes
-  brief: Batch Changes is a tool to find code that needs to be changed and change it at scale by running code.
-  strategy_link: /strategy-goals/strategy/batch-changes/index.md
-  em: chris_pine
-  design: daniel_marques
-  issue_labels:
-    - team/batchers
-
-code_insights:
-  title: Code Insights
-  brief: The code insights team is responsible for building and delivering code insights to engineering leaders, empowering data-driven decisions in engineering organizations.
-  strategy_link: /strategy-goals/strategy/code-insights/index.md
-  em: chris_pine_code_insights
-  issue_labels:
-    - team/code-insights
-
-code_exploration:
-  title: Code Exploration
-  brief: The code exploration team owns our code exploration UI and third-party integrations (including our IDE and browser extensions).
-  strategy_link: /strategy-goals/strategy/integrations/index.md
-  em: owen_convey_code_exploration
-  issue_labels:
-    - team/code-exploration
 
 source:
   title: Source
   brief: The Source team is responsible for code host integrations, gitserver, repo-updater, authentication & authorization to Sourcegraph, user management, and admin experience.
-  strategy_link: /strategy-goals/strategy/source/index.md
-  pm: ryan_phillips
-  em: thorsten_ball
+  strategy_link: /strategy-goals/strategy/platform/source.md
+  em: matt_manela_source
   issue_labels:
-    - team/iam
-    - team/admin-exp
-    - team/repo-management
+    - team/source
+
+graph:
+  title: Graph
+  brief: Create structural and semantic data from unstructured code to provide end-user value.
+  strategy_link: /strategy-goals/strategy/platform/graph.md
+  em: matt_manela_graph
+  issue_labels:
+    - team/graph
 
 ship_release:
   title: Releases
   brief: TBD
   strategy_link: /strategy-goals/strategy/release/index.md
-  em: interim_ship_release
+  em: interim_infra_release
   tl: jacob_pleiness
   issue_labels:
     - team/release
@@ -76,25 +46,31 @@ ship_devinfra:
   title: Developer Infrastructure
   brief: TBD
   strategy_link: /strategy-goals/strategy/devinfra
-  em: interim_ship_devinfra
+  em: interim_infra_devinfra
   tl: jh_chabran
   issue_labels:
     - team/devinfra
 
 ship_cloudops:
   title: Cloud Operations
-  em: interim_ship_cloudops
-  tl: rafal_gajdulewicz
+  em: eric_shamow
+  tl: michael_lin
   issue_labels:
     - team/cloud
 
-ship_coresvc:
+ship_core_services:
   title: Core Services
-  em: interim_ship_coresvc
-  tl: rafal_gajdulewicz
+  em: interim_infra_core_services
+  tl: robert_lin
   issue_labels:
     - team/core-services
 
 security:
   title: Security
   em: diego_comas
+
+cody_strategic:
+  title: Cody Strategic
+  brief: Our mission is to turn the largest, most world-recognizable brands into Cody Champions by working across technical boundaries.
+  strategy_link: /content/departments/engineering/teams/cody-strat/index.md
+  em: cezary_bartoszuk

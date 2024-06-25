@@ -20,11 +20,12 @@ A healthy mind and body is imperative to doing your best work and living a healt
 
 ### 👪 Family planning support
 
-We value and support teammates at all stages of life. We ensure that all teammates are afforded at least 16 weeks of paid parental leave for the birth or adoption of a child (Sourcegraph will bridge any gap of unpaid parental leave, so coverage details vary by location), and a reimbursement of up to $25,000 USD for family planning services (including but not limited to adoption, IVF, egg/sperm freezing, surrogacy, fertility hormone testing, morning after pill, abortion services, etc). Receipts for any expense over $25 are required. Family planning services apply to all teammates, their spouse, and/or domestic partner.
+We value and support teammates at all stages of life. We ensure that all teammates are afforded at least 16 weeks of paid parental leave for the birth or adoption of a child (Sourcegraph will bridge any gap of unpaid parental leave, so coverage details vary by location), and a reimbursement of up to $25,000 USD for family planning, building, and support services through [Maven](../../departments/people-talent/family-support.md) and Maven wallet. Receipts for any expense over $25 are required. Family planning services apply to all teammates, their spouse, and/or domestic partner.
 
 ### 📚 Professional development
 
 In addition to on-the-job training, we offer a $1,000 yearly reimbursement for educational opportunities (such as courses, extended education, books, conferences, etc.). We also hold detailed, twice annual 360 degree [Impact review cycles](../../departments/people-talent/people-ops/process/teammate-sentiment/impact-reviews/index.md) for all teammates. Receipts for any expense over $25 are required.
+We also offer all teammates a [Hone](../../departments/people-talent/learning-and-development.md) membership which provides access to interactive classes and training programs. With a focus on leadership and development, these classes offer all teammates opportunities to enhance skills, connect with experts, and collaborate with peers. Investing in your growth is key to Sourcegraph’s success!
 
 ### ✈️ Travel
 

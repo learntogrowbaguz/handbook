@@ -122,7 +122,7 @@ If you have already configured and authenticated to the cluster, you can of cour
 ## Prerequisites
 
 - Access to the `sourcegraph-scaletesting` and `sourcegraph-dogfood` google projects.
-- [kubectl](../process/deployments/kubernetes.md#how-to-set-up-access-to-kubernetes) and [helm](../../teams/release/deployment/helm.md#helm) configured.
+- [kubectl](../process/deployments/kubernetes.md#how-to-set-up-access-to-kubernetes) configured.
 
 Below you can find a subset of the common tasks and how to complete them:
 
@@ -238,7 +238,7 @@ It can also be scaled up or down with the following steps:
 
 #### Increase Disk
 
-> NOTE: Downsizing disk is not supported at the moment, please proceed with caution before increasing disk size.
+> [!NOTE] Downsizing disk is not supported at the moment, please proceed with caution before increasing disk size.
 
 Increasing disk is a 2 part process - you have to increase disk on the VM, and then expand the ghe filesystem for the changes to be applied.
 

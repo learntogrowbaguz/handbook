@@ -1,17 +1,17 @@
 # How we celebrate teammates
 
-At Sourcegraph, we love celebrating and recognizing the events happening in our teammates' lives! We celebrate on a day-to-day basic via our '#thanks' channel, quarterly via our impact awards program, and on a rolling basis when people experience exciting work or life events.
+At Sourcegraph, we love celebrating and recognizing the events happening in our teammates' lives! We celebrate on a day-to-day basis via our '#thanks' channel, quarterly via our impact awards program, and on a rolling basis when people experience exciting work or life events.
 
 ## This page talks about celebrating
 
-- [Regular thanks and recognition via our `#thanks` channel](celebrate.md##thanks-and-recognition)
-- [Impact awards](celebrate.md#impact-awards)
-- [New hires](celebrate.md#New-hires)
-- [Birthdays](celebrate.md#Birthdays)
-- [Work anniversaries](celebrate.md#Work-anniversaries)
-- [Promotions](celebrate.md#Promotions)
-- [Growing family](celebrate.md#New-babies)
-- Life events
+- [Regular thanks and recognition via our `#thanks` channel](#regular-thanks-and-recognition-via-our-thanks-channel)
+- [Impact awards](#impact-awards)
+- [New hires](#new-hires)
+- [Birthdays](#birthdays)
+- [Work anniversaries](#work-anniversaries)
+- [Promotions](#promotions)
+- [Growing family](#growing-family)
+- [Life events](#other-life-events)
 
 ## Regular thanks and recognition via our `#thanks` channel
 
@@ -38,7 +38,7 @@ Anyone at Sourcegraph can send a message in the `#thanks` channel. Both managers
 - **Focus on the positive.** Praise in public, criticize in private.
 - **Be specific with your praise.** What is the specific behavior you are praising? Praise genuine behaviors. You don’t have to wait for significant events to reinforce good work.
 - **Be Timely.** The sooner the praise is delivered, the more powerful.
-- **Be Sincere.** Mean what you say and deliver the praise in a genuine manner. People want sincere meaningful praise.
+- **Be Sincere.** Mean what you say and deliver the praise in a genuine manner. People want sincere, meaningful praise.
 - **Be consistent.** Consistently recognizing good work will help create a positive work culture and encourage others to do their best. It's important to recognize people regularly, not just once in a while.
 
 #### Why is recognition important
@@ -61,6 +61,7 @@ We are proud of the innovative and impactful work our teammates do every day. Ou
 - Any teammate, regardless of tenure, is eligible for an award.
 - All teammates can submit nominations, and nominations can be submitted for more than 1 teammate.
 - All award recipients will receive a unique gift to celebrate their accomplishments.
+- [People Team Internal Process doc](https://docs.google.com/document/d/1hzgCVFi9jJ2FA2cr6fBGmItR9Pm3r2t0kcGURAbEz2A/edit#heading=h.64l0sk5q16d)
 
 **Impact award considerations:**
 
@@ -74,7 +75,7 @@ Nominations will be considered based on but not limited to the criteria below:
 
 **How to nominate a teammate:**
 
-- To nominate a peer, please submit this [form](https://docs.google.com/forms/d/e/1FAIpQLScMsu9Kh3yFKHjBdSM4-y2i8ElCigha5LHiqQpfG25CgCB3Bw/viewform?usp=sf_link). It should take approximately 5-10 mins to fill out this form for each submission.
+- To nominate a peer, please submit this [form](https://docs.google.com/forms/d/e/1FAIpQLSdYFhQnCDp0P5ThZP_IW4BXCAsGubICIpgHnsPJZ9be9cwICg/viewform). It should take approximately 5-10 mins to fill out this form for each submission.
 - Nomination period opens and remains open for about ~2-3 weeks. The people team will announce the open and close dates for nominations each quarter.
 
 **How teammates are selected:**
@@ -156,7 +157,7 @@ Anniversary gifts will be coming from the individual's _team budget_ and should 
 
 At Sourcegraph, promotions are a big deal - and communicating promotions is one of the single biggest opportunities to widely celebrate teammate contributions! The People Team is responsible for sending a custom promotion gift to promoted teammates, and managers are responsible for recognizing promoted teammates by:
 
-- Sending a Slack in `#announce-teammate-hires` and cross-post in `#thanks` after promotions have been announced in the company kickoff meeting. At minimum, these posts should cover:
+- Sending a Slack in `#announce-teammate-hires` and cross-post in `#thanks` after the impact review cycle has been completed and promotions have been announced. At minimum, these posts should cover:
   - recognizing the hard work of the individual being promoted
   - providing insight into the individual’s new responsibilities
   - how the teammate's performance and actions embody [our values](../../company-info-and-process/values/index.md)
@@ -187,9 +188,7 @@ Managers are welcome to acknowledge or celebrate teammate life events at each te
 
 Our recommended gifting platform is [Loop & Tie](https://sourcegraph.loopandtie.com/). Loop & Tie offers curated collections of gifts organized by price and shipping location (US and International). Then our teammates get to select the gift they truly want from whichever collection they were gifted. Loop & Tie also offers sustainability and social impact options that allow teammates who don't want to redeem a gift to donate their gift amount ($) toward a charity or environmental support organization.
 
-Managers must have a Loop & Tie account to send a gift. To create a Loop & Tie account, please reach out to the People team in the #swag slack channel and a current Loop & Tie admin (Kemper or Fabiana) will invite you to create an account.
-
-Once you have an account, here is [how to send a Loop & Tie gift](https://guides.loopandtie.com/knowledge/how-to-send-a-gift-on-loop-tie).
+If you want to send a Loop & Tie gift, please reach out to Kemper and she will facilitate.
 
 **Budget:** All birthday and anniversary gifting will be coming from the _individual’s team budget_. When you’re sending a Loop & Tie gift, you will use credits already in the company Loop & Tie account. Then the People + Finance team will reclass the charges into the correct team budgets on a monthly cadence.
 
@@ -211,11 +210,9 @@ If you don't want to use Loop & Tie, here are some other gift ideas!
 
 - Gift a meal! Send your teammate a giftcard for a local food delivery service in their area _(International)_
 - [Virgin Experience Gifts: For the adventurers](https://www.virginexperiencegifts.com/) _(US)_
-- [AirBnb Gift Cards: For the travelers](https://www.airbnb.com/d/gift-cards) _(Redeemable only by individuals in the US with a US payment method. Do not use US payment method for purchasing for Non-US based teammates)_
 - [Dylan's Candy Bar: For those with a sweet tooth](https://www.dylanscandybar.com/) (_International)_
 - [La Colombe Coffee Trio: For the caffeine lover](https://www.lacolombe.com/products/greatest-hits-gift-box/?utm_campaign=21181&utm_content=2-353739&utm_source=pepperjam&utm_medium=affiliate&publisherId=%5Bsubid%5D&clickId=3570909913) _(International)_
 - [Farmgirl Flowers: For those who like to stop and smell the roses](https://farmgirlflowers.com/) _(US)_
-- [Goldbelly Gift Card: For the foodies](https://www.goldbelly.com/) _(US)_
 
 #### Sending gifts via mail
 
@@ -248,7 +245,7 @@ Once you’ve completed the google form, someone from the People team will conne
 
 **Brand Guidelines**
 
-When designing custom swag, please follow our [brand guidelines](../../departments/engineering/design/brand_guidelines/index.md) and run any mock-ups/questions past the #creative-ops Slack channel prior to ordering.
+When designing custom swag, please follow our [brand guidelines](../../departments/product/design/brand_guidelines/index.md) and run any mock-ups/questions past the #creative-ops Slack channel prior to ordering.
 
 ### External requests:
 

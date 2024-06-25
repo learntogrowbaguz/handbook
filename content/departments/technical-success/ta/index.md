@@ -2,46 +2,59 @@
 
 ## Who we are
 
-Technical Advisors (TA) serve as specialized technical experts focused on our customers' experience and relationships post-sales. We seek to deliver a consistent engagement experience to customers rooted in providing value to them such that they achieve their desired positive business outcomes within their business. We seek to reduce time to initial customer value by training and enabling our dev end users on how to use and integrate Sourcegraph into their workflows. We also strive to help our customers maximize their return on investment (ROI) and do so by continuously monitoring the health of our customers, becoming trusted advisors to them on all things Sourcegraph and engineering, and building out the tools and processes internally to do this job as effectively as possible. We are responsible for ensuring that customers are achieving their success metrics and that they continue to find new valuable use cases for Sourcegraph.
+Technical Advisors (TA) focus on the post-sales success of our customers. We are successful when our customers realize expected value and achieve positive outcomes within their business by using Sourcegraph.
 
 ## Our Team Purpose Statement
 
 Becoming a trusted advisor to our customers to enable them to better solve their engineering challenges
 
-## Team KPIs / Measures of Success
+## Technical Advisory Teams
 
-We use the following metrics to gauge the effectiveness and success of our team:
+The Technical Advisory organization is comprised of three teams:
 
-- Utilization (Adoption)
-- Consumption (Usage)
-- Retention
+- [Enterprise Technical Advisors](enterprise-success/index.md)
+  - Named and dedicated to specific customers
+  - Provides a high-touch, highly customized experience
+- [Scaled Technical Advisors](scaled-success/index.md)
+  - Non-dedicated but shared across a set of customers
+  - Provides a medium-touch, customized experience that also leverages digital programming
+- [Digital Technical Advisors](digital-success/index.md)
+  - Non-dedicated, on-demand coverage across a large set of customers
+  - Provides a low-touch experience that relies heavily on automated tooling
 
-While those metrics are good for our business, the driving factor should be making that the customer is successful in their own business, and that Sourcegraph is a critical tool in that process that proves invaluable to their organization.
+## TA Segmentation
 
-### Utilization (Adoption)
+We segment our customers into [four discrete tiers](../../../strategy-goals/strategy/index.md#market-segmentation). This segmentation is important in helping provide a consistent experience to our customers by defining the discrete activities that we want to deliver to every customer in a given tier. Using the estimated number of developers in our tiers ensures that customers have the proper resources attached to make them successful at scale while also letting us ensure the health of our own business.
 
-We consider healthy adoption / utilization to comprise of at least 80% consumption of purchased seats as measured by Monthly Active Users (MAU) / Total Licensed Seats. We aim to get to 80% consumption within the first 60 days of the engagement (after the production environment is established) and maintain at least 80% consumption at all times.
+### Enterprise
 
-### Consumption (Usage)
+This group is comprised of our Enterprise and Strategic TAs who are dedicated to a specific number of customers, depending on region and TA level. Within their book of business, TAs work directly with these customers throughout the post-sales lifecycle to provide a high-touch, customized experience.
 
-TAs seek to educate and enable customer devs on how to integrate Sourcegraph into their workflows so that they are using it multiple times every single day. Today we calculate usage based on a 4 week average lookback of daily active users / last month's monthly active users.
+Effective FY25, the following segments are assigned to Enterprise TAs:
 
-### Retention
+| Customer Segment | Segment definition                        |
+| ---------------- | ----------------------------------------- |
+| Strategic        | 2.5k+ devs, any amount of ARR spend       |
+| Enterprise       | 501 - 2.5k devs, >$100k current ARR spend |
 
-Everything a TA does should positively influence the long-term relationship we have with our customers. TA doesn't have explicit commercial obligations - the Account Executive does - but our efforts to drive outcomes (via adoption) and deliver value to our customers impact ultimate retention.
+### Scaled
 
-## Team Reference Resources
+This group is comprised of a team of Mid-Market TAs who nurture this segment of our customers through a combination of our digital success programming and our enterprise programming providing a medium-touch, tailored experience.
 
-### Team Culture
+Effective FY25, the following segments are assigned to Scaled TAs:
 
-- [Team Norms](team-culture/team-norms.md)
-- [How we work in support of and with customers](team-culture/working-with-customers.md)
+| Customer Segment | Segment definition                        |
+| ---------------- | ----------------------------------------- |
+| Enterprise       | 501 - 2.5k devs, <$100k current ARR spend |
+| Mid-Market       | 100 - 500 devs, >$100k current ARR spend  |
 
-### Internal Team Resources
+### Digital
 
-- [New TA Onboarding](onboarding/ta-onboarding.md)
-- [Career Development](career-growth/ta-career-development.md)
+This group is comprised of a team of technical advisors and program managers who nurture this segment through a digital success programming providing a low-touch, tailored experience.
 
-## How to Reach Us
+Effective FY25, the following segments are assigned to Digital TAs:
 
-This team can be engaged in the #discuss-technical-advisors channel or via the @technical-advisors user group in slack.
+| Customer Segment          | Segment definition                       |
+| ------------------------- | ---------------------------------------- |
+| Mid-Market                | 100 - 500 devs, <$100k current ARR spend |
+| Small-to-Medium Biz (SMB) | 0 - 99 devs, any amount of ARR spend     |

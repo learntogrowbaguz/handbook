@@ -37,6 +37,7 @@ Others:
 - [Sales Resources](../../../departments/sales/tools/salesresources.md): For Order Forms and other useful templates.
 - [Contract Review & Signature Authority Policy](../../../departments/legal/process/ContractReviewandSignatureAuthorityPolicy.md): For additional information on how to submit new requests for approval and to review our signature policy.
 - [Corporate Information](https://docs.google.com/document/d/1YbtEh5xpzWh5gbslHoQ1VS_02c4HIumS0PISfpAdU2M/edit): For Sourcegraph´s corporate information for Customers and Vendor Questionnaires.
+- [Deal Desk Checklist](https://docs.google.com/document/d/1qvibhsszdIRFl-GFEdgsH5zXe8bQQWgaKgtzbLOGbmA/edit)
 
 # Process Repository
 
@@ -45,3 +46,4 @@ Others:
 - [Product Migration: Free Batch Changes and Code Insights](https://docs.google.com/document/d/1sQmxjMSx9o0Dy8sHP_MEHQ3wl6zWZBJPRmgADDnqOcY/edit)
 - [Requesting exceptions to Cody Cloud Deployment](https://docs.google.com/document/d/1x-GeJQ8l-dMclFK1P7q6fUPGImIfGmQ-dTtEf8KCOis/edit)
 - [Deals through GCP / AWS Marketplace](https://docs.google.com/document/d/1hNAeneSwOMNqGJXGhpiiMnj08ObiYpmIVW2Lb0p4abI/edit)
+- [Multi-Year Deals](https://docs.google.com/document/d/1vnduAWXwTLScZ4LCpu5aycnznlmJ0N2Scz2GIKSldhY/edit)

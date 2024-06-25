@@ -8,7 +8,7 @@ For more context on monitoring at Sourcegraph, you should refer to:
 - [Sourcegraph monitoring pillars](./monitoring_pillars.md)
 - [Sourcegraph monitoring architecture](./monitoring_architecture.md)
 
-> NOTE: Looking for _how to monitor Sourcegraph?_ See the [observability documentation](https://docs.sourcegraph.com/admin/observability), for Sourcegraph.com-specific documentation see the [Sourcegraph.com monitoring documentation](./dotcom.md), and for Cloud Observability see [Sourcegraph Cloud Observability](../../../../cloud/technical-docs/observability/index.md).
+> [!NOTE] Looking for _how to monitor Sourcegraph?_ See the [observability documentation](https://docs.sourcegraph.com/admin/observability), for Sourcegraph.com-specific documentation see the [Sourcegraph.com monitoring documentation](./dotcom.md), and for Cloud Observability see [Sourcegraph Cloud Observability](../../../../cloud/technical-docs/observability/index.md).
 
 ![image](https://user-images.githubusercontent.com/3173176/82078081-65c62780-9695-11ea-954a-84e8e9686970.png)
 
@@ -26,7 +26,7 @@ To view metrics, built-in Grafana dashboards are available in [https://sourcegra
 
 [Custom dashboards](#creating-cloud-only-grafana-dashboards) are also available via the Grafana interface's dashboards browser.
 
-> WARNING: Metrics are not yet available in Grafana Cloud, and the built-in dashboards are only available to site admins in Sourcegraph Cloud. We are currently investigating avenues for making these dashboards available without requiring site admin access: [sourcegraph/sourcegraph#25407](https://github.com/sourcegraph/sourcegraph/issues/25407)
+> [!WARNING] Metrics are not yet available in Grafana Cloud, and the built-in dashboards are only available to site admins in Sourcegraph Cloud. We are currently investigating avenues for making these dashboards available without requiring site admin access: [sourcegraph/sourcegraph#25407](https://github.com/sourcegraph/sourcegraph/issues/25407)
 
 ### Alerts
 
@@ -94,7 +94,7 @@ To learn more, reference the [dashboard generator documentation](https://github.
 Once the dashboard is ready to be shipped to customers, we will need to port it to the [monitoring generator](https://docs.sourcegraph.com/dev/background-information/observability/monitoring-generator) to be included in our next Sourcegraph release.
 Custom dashboards cannot be added to the `sourcegraph/grafana` except through the generator.
 
-You can use a [local Grafana](#connecting-grafana-to-a-remote-prometheus-instance) or the Cloud Grafana to create a new dashboard and once its ready, export it by following these steps:
+You can use a [local Grafana](https://sourcegraph.com/docs/dev/how-to/monitoring_local_dev#grafana) or the Cloud Grafana to create a new dashboard and once its ready, export it by following these steps:
 
 - Open "Dashboard Settings" (top right cog).
 - Select "JSON Model".

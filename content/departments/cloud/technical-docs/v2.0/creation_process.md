@@ -24,7 +24,7 @@ Invoke [Managed Instance create GitHub Action](https://github.com/sourcegraph/cl
 - `license_key` - the product license key to be applied to the instance
 - `target_src_version` - use the latest tested sourcegraph version, e.g. `4.2.1` (no `v` prefix)
 - `gcp_region` - GCP region to deploy instance, one of [supported regions](https://sourcegraph.sourcegraph.com/github.com/sourcegraph/cloud/-/blob/.github/workflows/mi_create.yml?L44)
-- `enable_cody` - Set `cody.enabled` to true for this instance
+- `instance_features` - Comma-separated list of feature tags, e.g., `enable_cody`, `static_nat_ip`.
 - `dry_run` - (optional) whether to deploy GCP resources, enable to create the PR but not apply the resources
 
 or via command line:
@@ -39,7 +39,7 @@ gh workflow run -R github.com/sourcegraph/cloud  \
   -f customer_admin_email=$CUSTOMER_ADMIN_EMAIL \
   -f gcp_region=us-central1 \
   -f dry_run=[true|false] \
-  -f enable_cody=[true|false] \
+  -f instance_features=enable_cody,static_nat_ip \
   -f license_key=$LICENSE_KEY
 ```
 
@@ -64,13 +64,26 @@ If for some reason the key was not successfully applied during creation, it can 
 mi2 instance check -e $ENVIRONMENT -s $SLUG -enforce -src-license-key $LICENSE_KEY siteconfig.license-key
 ```
 
-[Optional - only for manual process] Add customer admin to the instance
+#### [Optional] Add additional customer admins
+
+If there is more than one initial customer admin email in the ticket:
+
+```sh
+# notes it only work if two admins email belong to the same domain to avoid accidentally adding the wrong admins
+# otherwise, you need to use SOAP to bypass this or consider asking the first admin to perform this step
+# on their own
+mi2 instance debug create-customer-admin -email <another-admin@company.com>
+```
+
+#### [Optional - only for manual process] Add customer admin to the instance
 
 ```sh
 mi2 instance check -e $ENVIRONMENT -s $SLUG -enforce -customer-admin-email $CUSTOMER_ADMIN_EMAIL
 ```
 
-In the GitHub issue, tag the assigned CE/AE the instance is ready with the following message. Also notify the assigned CE/AE in the Slack thread:
+#### Finally
+
+In the GitHub issue, tag the assigned CE/AE the instance is ready with the following message. Also, notify the assigned CE/AE in the Slack thread:
 
 ```
 Hi,
@@ -139,7 +152,7 @@ git checkout -b $SLUG/create-instance
 mi2 instance create -e $ENVIRONMENT --domain $DOMAIN --slug $SLUG [--region <GCP_REGION>]
 ```
 
-> NOTE: `--region` flag is optional, value must be from [supported regions](https://sourcegraph.sourcegraph.com/github.com/sourcegraph/controller/-/blob/internal/apis/sourcegraphcloud/types.go?L28). Without specifying flag `--region`, default instance GCP region is `us-central1`
+> [!NOTE] `--region` flag is optional, value must be from [supported regions](https://sourcegraph.sourcegraph.com/github.com/sourcegraph/controller/-/blob/internal/apis/sourcegraphcloud/types.go?L28). Without specifying flag `--region`, default instance GCP region is `us-central1`
 
 ```sh
 export INSTANCE_ID=$(mi2 instance get -e $ENVIRONMENT --slug $SLUG | jq -r '.metadata.name')

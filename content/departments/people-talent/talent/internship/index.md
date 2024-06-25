@@ -2,7 +2,7 @@
 
 We completed our first-ever internship program in 2022! It was a 12 week internship program beginning May 16, 2022 and ending August 5th, 2022. All roles were full-time and [all-remote](../../../../company-info-and-process/remote/index.md).
 
-We plan to run our next internship program in 2024 and we will update this page accordingly.
+We do not have a set timeline for when our next internship program will occur, but we will update this page accordingly.
 
 We do not limit our internships to just students - we welcome all qualified applicants, including incoming college seniors, graduating seniors, graduate students, people without a degree, or individuals looking to make a career change.
 
@@ -133,7 +133,7 @@ Payroll
 
 #### Points of contact
 
-- [Tammy](../../../../team/index.md#tammy-zhu) - for legal questions
+- legal@sourcegraph.com - for legal questions
 - payroll@sourcegraph.com - for payroll questions
 - [Kemper](../../../../team/index.md#kemper-hamilton) - for onboarding and all other internship program questions
 
@@ -153,7 +153,7 @@ In addition to each interns’ projects and responsibilities, there will be a sc
 
 - Q: Is there any way to retroactively update/add working hours for previous days?
 
-  - A: Yes, you can manually update your hours through submitting change requests or going to “My Time” and changing your hours worked directly.
+  - A: Yes, you can manually update your hours by submitting change requests or going to “My Time” and changing your hours worked directly.
 
 - Q: Am I allowed to work any hours on Saturday or Sunday?
 
@@ -163,7 +163,7 @@ In addition to each interns’ projects and responsibilities, there will be a sc
 
   - A: Absolutely!
 
-- Q: Is it correct to think that most of the time we'll be logging 40 hour work weeks in Rippling?
+- Q: Is it correct to think that most of the time we'll be logging 40-hour work weeks in Rippling?
 
   - A: Yes, we anticipate a consistent 40 hours/week report unless your manager is aware you'll be working _less than_ 40 hours in a certain week and/or unless you have _overtime_ approved by your manager ahead of time.
 
@@ -176,7 +176,12 @@ In addition to each interns’ projects and responsibilities, there will be a sc
   - A: US Interns will submit for reimbursements through [Airbase](../../../finance/process/payables.md#airbase).
 
 - Q: Do I clock hours into Rippling on PTO?
-  - A: Yes, clock in regular work hours and just add a comment in Rippling that you are on PTO. To make a comment, right click a day in your “Hours Worked” section of your TimeSheet and click “Add Comment.”
+  - A: Yes, clock in regular work hours and just add a comment in Rippling that you are on PTO. To make a comment, right-click a day in your “Hours Worked” section of your TimeSheet and click “Add Comment.”
+
+#### Minor Travel Policy
+
+- [Supervisor Guidelines](https://docs.google.com/document/d/1dXziVsmJoDtTRE_ZzA-_EsJ6FYedn7heoH5mmS77ULw/edit#heading=h.93retcq8qou1)
+- [Minor Guidelines](https://docs.google.com/document/d/1-cpjqEmkSKURowXOiydrLd1WIUdp-KZzqucRQ7va4QM/edit)
 
 General FYI: **Sourcegraph is not able to give tax-related guidance.**
 

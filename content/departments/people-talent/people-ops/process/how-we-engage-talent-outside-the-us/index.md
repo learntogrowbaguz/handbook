@@ -62,7 +62,7 @@ Contractors sign consulting agreements with Sourcegraph. The agreement depends o
 
 ### Benefits
 
-Full-time, indefinite term contractors receive the same compensation as full-time US teammates, regardless of the contractor’s location. We want to give teammates the flexibility to work from anywhere in the world, and contracting is the only structure that fully allows us to offer that. We have kept all offers and roles on a US salary rather than adjusting for cost of living by location. The intention is that this difference would allow teammates to cover the benefits we are unable to provide on a contracting structure. Full-time contracting teammates can expense recurring expenses as outlined in our handbook.
+We want to give teammates the flexibility to work from anywhere in the world, and contracting is the only structure that fully allows us to offer that. Full-time contracting teammates can expense recurring expenses as outlined in our handbook.
 
 Contractors are not eligible for all employee benefits (e.g. healthcare, life insurance). However, contractors may expense certain costs incurred in performing their duties.
 
@@ -78,9 +78,17 @@ Contractors generally don’t go through team-specific onboarding, except for fu
 
 As we’re building a company for the long-term, we rarely take on temporary contractors in any country (including the US) unless under exceptional circumstances, like once-off projects or to cover for an existing teammate on an extended leave. [Temporary contractors](./temporary-contractors.md) are independent contractors who supply work or services to us on an “as needed” basis, use their own systems and tools to do so, and invoice us monthly for the work they’ve done. While we strive to make them feel welcome and support their success in their short time with us, they are not considered teammates, and some of their access to our systems, meetings and benefits may be limited.
 
+### How to hire a temporary contractor
+
+Temporary contractors **must** go through our [vendor procurement process](../../../../finance/process/ap.md#airbase-guided-procurement-contract-executionvendor-request), which is managed in Airbase, prior to working with any temporary contractors or signing any agreements. During the vendor procurement process, the temporary contractor request will go through all necessary approvals (People Ops, Finance, and Security and Legal if appropriate). Once approved, People Ops will draft and send the contractor agreement via Docusign.
+
+The sooner you submit the request in Airbase, the better!
+
+[How to submit an airbase contractor request](../../../../finance/process/ap.md#how-do-i-submit-a-request-in-airbase)
+
 ### Contracts
 
-Temporary contractors receive a generic temporary contract that specifies a contracting fee, a start date and an expiry date, and dates are only extended if agreed in writing and with the approval of People Ops and Finance, no more than one (1) month before the contract expires.
+Temporary contractors receive a generic temporary contractor agreement that specifies a contracting fee, scope of work, a start date and an expiry date, and dates are only extended if agreed in writing and with the approval of People Ops and Finance, no more than one (1) month before the contract expires.
 
 ### Benefits, allowances and expenses
 
@@ -100,25 +108,33 @@ To read more about Temporary contractors and how they are defined visit [this pa
 
 ## Visa sponsorship and immigration assistance
 
-### Visas
+### **Visas**
 
 Since our teammates can generally work from anywhere in the world, we sponsor visas for only roles that require the presence in a particular country as part of the job responsibilities. In such cases we will work to support teammates as much as possible, but if our PEOs do not sponsor the visa, an alternative solution may take multiple months to implement. We encourage hiring managers to let the Talent and People Ops teams know as early as possible, before the role is even opened, if such requirements exist.
 
-**note**: We post all required LCA postings [here](../../../Required-posting-page.md)
+We collect all active visa types in our HRIS, Bamboo, to help People-Ops better support teammates who need support with their visas. This ranges from employment support letters, sponsorship documents or working with our external immigration team. Please be sure to complete this field within your Bamboo profile.
 
-#### For role-required reasons
+note: We post all required LCA postings [here](../../../Required-posting-page.md)
 
-In cases where a candidate or teammate's role within Sourcegraph would require their presence in a particular country, we will cover the costs of immigration assistance and work to support the candidate as much as possible. However, it is dependent on whether we, or our PEO partner, have the ability to sponsor the particular visa or immigration process. We encourage hiring managers to let the Talent and People Ops teams know as early as possible, even before the role is opened, if such requirements exist.
+#### **For role-required reasons**
 
-#### For personal reasons
+In cases where a candidate or teammate’s role within Sourcegraph would require their presence in a particular country, we will cover the costs of immigration assistance and work to support the candidate as much as possible. However, it is dependent on whether we, or our PEO partner, have the ability to sponsor the particular visa or immigration process. We encourage hiring managers to let the Talent and People Ops teams know as early as possible, even before the role is opened, if such requirements exist. To be eligible for consideration, the role must at a minimum have requirements for L5 or M4 level scope.
+
+\*\*\* Note: If the role has not been pre-approved for Visa sponsorship, the Recruiter will inform the candidate that the role is not eligible for Visa sponsorship as per our company policy and that we will not be able to continue the interview process.
+
+#### **For personal reasons**
 
 Since our teammates can generally work from anywhere in the world, we do not cover sponsorship and visa assistance costs for candidates and teammates who plan to move to or remain in a country where they require sponsorship or immigration assistance. However, if there is a role that is considered difficult to fill and a person possesses a unique skillset and/or particular experience level that is needed, the People Team, Talent Team, and Hiring Manager will make a decision on a case by case basis and may consider covering costs in some cases.
 
+**Current visa holders**
+
 For candidates or teammates that currently hold a visa and prefer to keep their status in a particular country for personal reasons, Sourcegraph may be able to sponsor the visa depending on whether we or our partner PEO have the ability to support it. The candidate or teammate would carry the cost of transferring and sponsoring the visa.
+
+**Active visa process**
 
 For candidates or teammates that do not currently hold a visa or permanent residency for the country they plan to live in or move to, but have an existing or in-process case, Sourcegraph may be able to transfer and take over the case (depending on the visa, the country, and whether we have the ability to support it directly or via our PEO partner). The candidate or teammate would carry the cost of transferring and sponsoring the case.
 
-### Countries where we cannot currently support employment or contracting
+### **Countries where we cannot currently support employment or contracting**
 
 We cannot support or employ candidates or teammates in any of these countries due to U.S. embargoes and sanctions.
 
@@ -132,4 +148,20 @@ We cannot support or employ candidates or teammates in any of these countries du
 - Russia (case by case - notify People Ops)
 - Ukraine (case by case - notify People Ops)
 
-Any questions? Contact the People team in #ask-people-team in Slack or people-ops@sourcegraph.com via email!
+**Sourcegraph will not consider initiating new petitions prior to teammates 1-year mark**
+
+For candidates in need of sponsorship that require a new visa, we will agree to sponsor new visas for teammates so long as they have worked at Sourcegraph a minimum of 12 consecutive months prior to initiating a visa petition and given that we have the ability to sponsor said visa.
+
+Sourcegraph does not have the ability to support F-1 extensions (OPT).
+
+Any visas sponsored by Sourcegraph must be compatible with an all-remote work setting.
+
+Any questions? Contact the People team in [#ask-people-team](https://sourcegraph.slack.com/archives/ask-people-team) in Slack or people-ops@sourcegraph.com via email!
+
+### _Citizenship_
+
+Sourcegraph collects all teammate’s citizenship & visa type during onboarding. The reasons being we want to support you with Merge or team travel, as well as remain compliant with employment laws and our customer contracts.
+
+#### People Team Resources
+
+[Internal process doc](https://docs.google.com/document/d/1C8URTmcrzZAQR7PTXkr1IOsvg8Ge22BUUtIRCjIItpg/edit)

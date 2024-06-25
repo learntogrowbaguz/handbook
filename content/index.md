@@ -61,6 +61,7 @@ Want to join our team? See [open roles](https://about.sourcegraph.com/jobs/).
 - Team
   - [Team bios](team/index.md)
   - [Org chart](team/org_chart.md)
+  - [EPD Resources](team/epd-resources.md)
 - [Equality of opportunity](company-info-and-process/equality-of-opportunity.md)
 
 ## Departments
@@ -78,11 +79,7 @@ Want to join our team? See [open roles](https://about.sourcegraph.com/jobs/).
 
 ### [Engineering](departments/engineering/index.md)
 
-- [Engineering](departments/engineering/dev/index.md)
-- [Product Management](departments/engineering/product/index.md)
-  - [Strategy](strategy-goals/strategy/index.md#team-strategy-pages)
-  - [Process](departments/engineering/product/process/index.md)
-- [Design](departments/engineering/design/index.md)
+### [Product](departments/product/index.md)
 
 ### [Cloud](departments/cloud/index.md)
 
@@ -91,7 +88,7 @@ Want to join our team? See [open roles](https://about.sourcegraph.com/jobs/).
 ### [Technical Success](departments/technical-success/index.md)
 
 - [Customer Engineering](departments/technical-success/ce/index.md)
-- [Implementation Engineering](departments/technical-success/ie/index.md)
+- [Professional Services](departments/technical-success/ps/index.md)
 - [Support Engineering](departments/technical-success/support/index.md)
 - [Technical Advisory](departments/technical-success/ta/index.md)
 
@@ -132,7 +129,7 @@ Want to join our team? See [open roles](https://about.sourcegraph.com/jobs/).
   - [Spending company money - what's covered](benefits-pay-perks/benefits-perks/spending-company-money.md)
   - [Travel benefits](benefits-pay-perks/benefits-perks/travel/index.md)
   - [Time off](benefits-pay-perks/benefits-perks/time-off/index.md)
-  - [Mental health](benefits-pay-perks/benefits-perks/mental-health/index.md)
+  - [Mental health](departments/people-talent/total-rewards/mental-health.md)
 - [Mentorship](company-info-and-process/mentorship/index.md)
 - [Policies](company-info-and-process/policies/index.md)
 - [Contact and business information](company-info-and-process/about-sourcegraph/general-office-info.md)

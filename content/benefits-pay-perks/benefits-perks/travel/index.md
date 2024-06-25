@@ -46,7 +46,7 @@ This travel budget is intended for Teammates to attend company-wide meetups, arr
 
 ### 2. Team travel
 
-Each Exec is allocated $5,000 USD per year per Teammate for their department, so you can connect and build relationships with the members of your own team. **Managers must work with their Exec to plan trips and ensure they have budget.** Considering the intention, this applies when a minimum two members of the team get together. Tracking the fiscal year spend is the responsibility of each individual Teammate. Accounting will provide actuals at the cost center level and not per person.
+Each Exec is allocated $1,850 USD per year per Teammate for their department, so you can connect and build relationships with the members of your own team. **Managers must work with their Exec to plan trips and ensure they have budget.** Considering the intention, this applies when a minimum two members of the team get together. Tracking the fiscal year spend is the responsibility of each individual Teammate. Accounting will provide actuals at the cost center level and not per person.
 
 The best team trips are the ones with 50% bonding, and 50% work/collaboration time factored in. In planning your Team travel, feel free to reference a sample agenda below:
 
@@ -66,7 +66,7 @@ Factor in as much time to spend together during the trip and leave room for solo
 
 #### Engineering team travel
 
-Individuals in the engineering org are responsible for working with their direct Managers to determine how they will use their team travel budget. It is up to the individual and their Manager to decide if they would like to join their job fair team trip or their original team trip.
+Individuals in the engineering org are responsible for working with their direct Managers to determine how they will use their team travel budget. It is up to the individual and their Manager to decide if they would like to join their product planning team trip or their original team trip.
 
 ### 3. Business/customer travel
 
@@ -133,7 +133,7 @@ For any anticipated spending over $1,000 USD, please follow the above steps and 
 
 We advise spending within reason for the location you are visiting, with a $300 USD per night maximum spend limit (including taxes, fees, and parking).
 
-> NOTE: Spending over $300 USD per night requires additional approvals from
+> [!NOTE] Spending over $300 USD per night requires additional approvals from
 > Finance / People Ops.
 >
 > _Please send travel@sourcegraph.com an email with your manager and
@@ -173,7 +173,7 @@ Please see below for a complete summary of spend limit for each type of trip. Th
 | Trip Category     | Total Spend Limit |
 | ----------------- | ----------------- |
 | Company-wide      | N/A               |
-| Team              | $5,000            |
+| Team              | $1,850            |
 | Business/Customer | N/A               |
 | Education         | $1,000            |
 
@@ -314,7 +314,7 @@ If you have questions about how to use this budget, please reach out in #ask-peo
 
 # Virtual Gatherings
 
-This section refers to virtual events and gatherings with your direct team. As an all-remote company, we encourage teams to connect virtually outside of company and team trips. As such, each teammate has $150 per person per quarter to spend on virtual gatherings of the team’s choice. This budget can be split up into more than one event, but does not roll over to the next quarter. Our recommended virtual event cadence is 1-2 events per quarter.
+This section refers to virtual events and gatherings with your direct team. As an all-remote company, we encourage teams to connect virtually outside of company and team trips. As such, each teammate has $150 per person per quarter to spend on virtual gatherings of the team’s choice. This budget can be split up into more than one event, but does not roll over to the next quarter. Our recommended virtual event cadence is 1 event per quarter.
 
 **Who is responsible for planning virtual events?**
 

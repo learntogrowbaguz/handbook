@@ -74,7 +74,7 @@ These are automatic, so they will be set to the current manager of the new teamm
 
 **Resources:**
 
-- [Onboarding checklist](../../../../company-info-and-process/onboarding/index.md)
+- [Onboarding checklist](../process/onboarding.md)
 
 #### Impact of org and role changes
 
@@ -82,11 +82,11 @@ Process Street allows users to use conditional logic—we hide or show content d
 
 Managers assigned to teammates also need to be updated and sometimes even the content needs to be too.
 
-### Roots
+### PTO by Deel
 
-[Roots](https://www.tryroots.io/pto) is our paid time off (PTO) management system that is hosted within Slack. Roots allows all teammates to notify their manager and delegate any tasks during their PTO to appropriate teammates directly via Slack's interface. As a manager, you are able to pull reports on your team's historical and upcoming PTO.
+[PTO by Deel](https://www.tryroots.io/pto) is our paid time off (PTO) management system that is hosted within Slack. It allows all teammates to notify their manager and delegate any tasks during their PTO to appropriate teammates directly via Slack's interface. As a manager, you are able to pull reports on your team's historical and upcoming PTO.
 
-Please note: we do _not_ use BambooHR's PTO request system. If your direct report submits a PTO request via BambooHR, please hit "reject" and direct them to Roots to resubmit.
+Please note: we do _not_ use BambooHR's PTO request system. If your direct report submits a PTO request via BambooHR, please hit "reject" and direct them to PTO by Deel to resubmit.
 
 **Resources:**
 

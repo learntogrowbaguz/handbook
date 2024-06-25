@@ -8,7 +8,8 @@ This page is meant as a resource to find answers to questions frequently asked b
 
 **US teammates:**
 
-- The People Ops team will put a meeting on your calendar within your first 3 days of employment where you will present valid documentation that shows your identity and authorization to work in the US. You can find a list of acceptable documents [here](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents). **Please ensure your documentation is up to date** prior to your start date. If your documentation is expired, it is not valid and your start date will be delayed.
+- Within your first 3 days at Sourcegraph, you are required to complete an I-9 form and present valid documentation that shows your identity and authorization to work in the US. You can find a list of acceptable documents [here](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents). **Please ensure your documentation is up to date** prior to your start date. If your documentation is expired, it is not valid and your start date will be delayed.
+- We use a vendor called Workbright to facilitate our I-9 verification remotely. You will receive an email from Workbright to your personal email on Day 1.
 
 **Non-US teammates:**
 
@@ -53,10 +54,10 @@ This page is meant as a resource to find answers to questions frequently asked b
 - **Contractors:**
   - All expensed perks must be added as a separate line item in your monthly invoice. For instructions on how to submit an invoice, visit [this page](../../../../benefits-pay-perks/pay-expenses/invoices.md).
 - **PEO employees:**
-  - **Remote and Deel:**
-    - All expensed perks must be submitted via Remote’s platform in order for them to be included in your monthly pay. Please use allowance type for internet, phone, wellness and reimbursement for all others.
-  - **Velocity:**
-    - All expensed perks must be submitted via Expensify in order for them to be included in your monthly pay.
+  - **Deel:**
+    - All expensed perks must be submitted via Deel’s platform in order for them to be included in your monthly pay. Please use allowance type for internet, phone, wellness and reimbursement for all others.
+  - **Airbase:**
+    - All expensed perks must be submitted via Airbase in order for them to be included in your monthly pay.
 
 ### Q. Are expense report reimbursements tied to my paycheck?
 
@@ -69,21 +70,10 @@ This page is meant as a resource to find answers to questions frequently asked b
 - **Contractors:**
   - Yes, all expenses and monthly fees should be included in your monthly invoice.
 - **PEO employees:**
-  - **Remote:**
+  - **Deel:**
     - Yes, your monthly expense reimbursements will be added to your monthly paycheck.
-  - **Velocity:**
+  - **Airbase:**
     - No, your expense report reimbursements are processed separately from your paycheck.
-
-### Q. When and where do I get my Expensify invite? (Velocity Global teammates)
-
-**Velocity Global teammates:**
-
-- You will receive an [Expensify](https://www.expensify.com/) invite to your Sourcegraph email by your first week. You will use Expensify to submit receipts for reimbursement.
-  - If you do not have an invite to Expensify by your first week, please contact to People Team in #ask-people-team in Slack or [people-ops@sourcegraph.com](mailto:people-ops@sourcegraph.com).
-
-**All other teammates:**
-
-- Not applicable.
 
 ## Health benefits
 
@@ -93,27 +83,33 @@ This page is meant as a resource to find answers to questions frequently asked b
 
 ## Immigration support
 
-### Q. I need a letter from my employer to obtain a visa, how do I request that?
+#### Q. I need a letter from my employer to obtain a visa, how do I request that?
 
-- Teammates are responsible for maintaining their immigration status and People Ops is here to help facilitate. If you need a letter from Sourcegraph to support your renewal, please follow these steps:
-  - Go to https://app.truework.com/letter
-  - Enter “Sourcegraph” for Employer Name
-  - Enter your Sourcegraph email address for Work Email
-  - Enter 8 letter verification code that was sent to your Sourcegraph email address
-  - Click "Download" under Visa Sponsorship Letter
-  - Your letter is downloaded and ready!
+- Teammates are responsible for maintaining their immigration status and People Ops is here to help facilitate. If you need a letter from Sourcegraph to support your renewal, please reach out to the People Ops team through #ask-people-team or [people-ops@sourcegraph.com](mailto:people-ops@sourcegraph.com).
 
-### Q. Can Sourcegraph sponsor my immigration?
+#### Q. Can Sourcegraph sponsor my immigration?
 
 - You can find more information on our sponsorship and immigration policies [here](../process/how-we-engage-talent-outside-the-us/index.md#visa-sponsorship-and-immigration-assistance).
 
-### Q. What will happen if I fall out of status during the renewal process?
+#### Q. Does Sourcegraph have a Immigration attorney or firm?
 
-- If your employment authorization documents expire, you will need to go on “Unpaid leave” until your documents are renewed. If this is the case, please reach out to People Ops at [people-ops@sourcegraph.com](mailto:people-ops@sourcegraph.com).
+- Yes, please reach out to the People Ops team for an introduction. People Ops partners with WR Immigration for all visa cases. If we are able to sponsor your visa, we will connect you with our external immigration team.
 
-### Q. What if I have a question that isn’t answered here?
+#### Q. What if my visa requires employer sponsorship and the employer must pay for certain aspects?
 
-- Post your question into #ask-people-team
+- We handle all visa situations on a case-by-case basis. You would need approval from People-Ops to move forward with your visa application. We do our best to accommodate these requests whenever possible. If approved, Sourcegraph will pay the employer required portion and the teammate will be responsible for other expenses associated with the visa process.
+
+#### Q. Does Sourcegraph help with family visas?
+
+- Sourcegraph sponsors visas for teammates and generally the cost is not covered by Sourcegraph and is the teammates responsibility. If your visa application includes your family, they will be included in the process.
+
+#### Q. What will happen if I fall out of status during the renewal process?
+
+- If your employment authorization documents expire, you will need to go on “Unpaid leave” until your documents are renewed. If this is the case, please reach out to People Ops at people-ops@sourcegraph.com.
+
+#### Q. What if I have a question that isn’t answered here?
+
+- Post your question into [#ask-people-team](https://sourcegraph.slack.com/archives/ask-people-team)
 
 ## Moving
 
@@ -195,7 +191,7 @@ This page is meant as a resource to find answers to questions frequently asked b
 
 ### Q. When will I receive my onboarding swag?
 
-- You will receive a link to order your onboarding swag at your personal email. The link will take you to a form that you will need to fill out to order your onboarding swag pack.
+- You will receive a link to order your onboarding swag in your BambooHR onboarding tasks that must be completed prior to Day 1. The link will take you to a form that you will need to fill out to order your onboarding swag pack.
 
 ### Q. Who do I contact if I have questions about swag?
 

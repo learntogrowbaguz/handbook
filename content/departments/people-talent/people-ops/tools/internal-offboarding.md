@@ -84,7 +84,7 @@ Security is responsible for deactivating the departing teammate from these syste
 
 #### People Ops tasks
 
-The full People team offboarding process can be found [here](https://docs.google.com/document/d/13dkDp2P-f1GGotxONdObB918TybxYFDK4t6N0avcpPo/edit#).
+The full People team offboarding process can be found [here](https://docs.google.com/document/d/13dkDp2P-f1GGotxONdObB918TybxYFDK4t6N0avcpPo/edit#). It details the Peple Team's process step by step and outlines any offboarding variations for each employment type (Temporary contractors, PEO, US employee).
 
 Prior to the teammates last day, the People Partner is responsible for:
 
@@ -112,13 +112,9 @@ On the teammates' final working day, the People Ops team is responsible for:
 - If the teammates' departure involves severance, the People Partner will create a severance agreement for the teammate and send it via Docusign.
   We send these agreements via the People-ops@sourcegraph.com Docusign account using the Severance Agreement Docusign template. Once the People Partner and the departing teammate have signed the agreement, Payroll is sent a cc copy.
 
-### COMING SOON: Offboarding variations by employment type
-
-- Temporary contractors
-- PEO
-- US employee
+##**Unemployment Claims**
+We respond to all unemployment claims that require action to be taken. The full internal people team process can be found [here](https://docs.google.com/document/d/1d1lfumDP0RKFxchc7kvMPMhyN4984d2KFYVSZIXzlEY/edit?usp=sharing).
 
 ## Helfpful links
 
-- [Working with other teams](working-with-other-teams.md)
 - [Exit interview](../process/leaving.md#exit-interviews) & [experience exit survey](../process/teammate-sentiment/exit-survey.md)

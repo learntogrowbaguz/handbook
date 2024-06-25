@@ -48,6 +48,20 @@ We want to find engineers who are:
 
 - **How to prepare:** Two engineers from the team will work with you by verbally discussing how you would design a new system from scratch. We will work with you in this collaborative session to think about and design the system together, looking for your natural intuition about building systems and problem-solving as we throw various wrenches into the system. The interview consists of open-ended questions, allowing you to describe your mental model of designing a new system from scratch - we want to understand the decisions you are making when designing system architectures. We expect you to ask clarifying questions as the requirements for the system are purposefully ambiguous. We expect you to be designing systems that often need to meet conflicting or ambiguous requirements. For engineers in these roles, a significant part of their journey in Sourcegraph is going to be designing new or improving existing systems to fit these new requirements. Being open-ended allows us to dive into multiple different problem areas, based on your responses, skills, and abilities. It allows a bidirectional conversation, which lets us identify the strengths and weaknesses in the design you propose.
 
+#### Technical Screen / Resume Deep Dive
+
+- **Interviewers:** A member of the team for which you're interviewing
+
+- **Duration:** 30-60 minutes
+
+- **Details:** A Sourcegraph teammate will ask technical and behavioral based questions about your skills, values, and work history in order to gauge whether they're aligned with the requirements of the role. The goal of the interview is to:
+
+  1. Get an understanding of your technical depth and how you would contribute to and/or collaborate with our engineering team
+  2. Take a [deep dive](types_of_interviews.md#resume-deep-dive) into your background from past to present with the goal of uncovering the motivation behind your decision making, strengths, weaknesses, and accomplishments in past roles.
+  3. Get a high level understanding of how your views and experiences align with [our values](../../../../company-info-and-process/values/index.md).
+
+The interviewer will leave time at the end to answer any questions that you have. This stage is meant to be conversational and informative for both you and us.
+
 #### Technical Interview
 
 - **Interviewers:** two members of the engineering department
@@ -109,6 +123,14 @@ We want to find engineers who are:
 - **Details:** This is a live interview to assess your approach to Code and to the UI/UX design. One interviewer will lead the interview and one interviewer will shadow. The exercise will use CodeSandbox and Figma, and will be done in React. If you prefer not to use your accounts we have it set up so you don't have to.
 
 - **Preparation:** Not Mandatory, since we can set up the exercise without it - Create (free) accounts on https://www.figma.com/ and https://codesandbox.io/.
+
+#### Release / Tooling Engineer Take-Home Assignment Walkthrough
+
+- **Interviewers:** two engineers from the Sourcegraph team
+
+- **Duration:** 60-minutes
+
+- **Details:** Two engineers will have you walk them through your take-home exercise. Please be prepared to discuss your results and answer any follow up questions that they have.
 
 #### Delivery: Pairing Exercise
 
@@ -255,6 +277,14 @@ are working on this piece of code?
 
 ### AI/ML Interviews
 
+#### Hiring Manager Screen / ML Breadth
+
+- **Interviewers:** Head of AI
+
+- **Duration:** 60-minutes
+
+- **How to prepare:** During this stage in the interview process, the Hiring Manager will introduce themself, get to know you, share details on the AI team and answer any initial questions you may have. They will then discuss few science questions around end to end ML formulation, modelling, deployment & experimentation to gauge your experience in productionizing ML systems in the industry.
+
 #### Technical Background
 
 - **Interviewers:** Beyang Liu, co-founder and CTO
@@ -269,13 +299,17 @@ are working on this piece of code?
 
 - **Duration:** 45-minutes
 
-- **How to prepare:** During this interview, we will ask you to explain a recent project, including how you led it and approached different challenges. Please be prepared to answer questions around your technical approach and architecture.
+- **How to prepare:** The goal of the technical deep dive interview is to assess both theoretical understanding and practical application skills in machine learning. This interview will focus on ranking specific ML knowledge (e.g. models, loss functions, experimentation) as well as orchestration tools and strategies for developing end to end ML systems in production.
 
 #### Pairing Exercise
 
-- **Interviewers:** Thorsten Ball, Head of Source and Cody tech lead
+- **Interviewers:** Beyang Liu, CTO/Co-founder
 
-- **Duration:** 15-minute setup call, then candidate works asynchronously on exercise, with ability to ask questions in a Slack chat. Expectation is that candidate finishes project after ~1d (independent of hours actually worked on it)
+- **Duration:** 30-minute kick-off session + up to 2 hours to work on your own:
+
+  - The first 15 minutes will be live, where we'll ensure that the dev environment is setup.
+  - For the next 15 minutes, as you get started on the project, the interviewer will be actively online to answer any questions that you have via Slack.
+  - Then, the expectation is that you finish the project within 2 hours.
 
 - **How to prepare:** Please complete these steps prior to the interview:
 
@@ -283,16 +317,16 @@ are working on this piece of code?
   - Have a working VS Code installation on your local machine
   - git clone the Sourcegraph Cody repository: https://github.com/sourcegraph/cody
   - Try to get as far as you can setting up the Cody dev environment: https://github.com/sourcegraph/cody/blob/main/vscode/CONTRIBUTING.md
-  - If you get stuck, we will go over it on the call
-  - During the call, you'll get invited by the interviewer to a shared Slack channel in which you can ask questions
+  - If you get stuck, we will go over it on the meeting
+  - During the meeting, you'll get invited by the interviewer to a shared Slack channel in which you can ask questions
 
 - **Details:** In the 15min setup call, we'll make sure your development environment is correctly setup. You can ask questions about it too.
 
-  Then we'll ask you to add one feature of your choosing to Cody, using Cody. See [this list of tickets](https://github.com/sourcegraph/cody/issues?q=is%3Aopen+is%3Aissue+label%3Aclients%2Fvscode) as possible source of inspiration.
+  Then we'll ask you to add a hypothetical feature to Cody.
 
-  You can ask questions in a shared Slack chat.
+  You can ask questions in a shared Slack chat for 15 minutes after your meeting.
 
-  Share your final results as a pull request in the Slack channel.
+  When you are finished, please share your final results as a pull request in the Slack channel.
 
 #### AI Coding Exercise
 
@@ -352,7 +386,7 @@ Finally, you'll walk us through your solution in a 45-minute review session. Beg
 
 - **Interviewers:** Two engineers on the team/org they would manage
 
-- **Duration:** 60-minutes.
+- **Duration:** 45-60-minutes.
 
 - **Details:** The purpose of this interview is to assess whether the candidate has the necessary technical depth to effectively lead a high quality engineering team.
 
@@ -360,6 +394,6 @@ Finally, you'll walk us through your solution in a 45-minute review session. Beg
 
 - **Interviewers:** Two cross-functional peers
 
-- **Duration:** 60-minutes.
+- **Duration:** 30-60-minutes.
 
 - **Details:** This interview will be focused on domain knowledge, functionally-specific depth, and breadth. The purpose of this interview is to assess whether the candidate will work well with teammates outside of engineering to achieve what is in the best interest of Sourcegraph and our customers.

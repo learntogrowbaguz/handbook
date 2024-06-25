@@ -1,6 +1,6 @@
 ## Managed Instance technical documentation
 
-> NOTE: As of 2023-03-23, new managed instances are using the v2.0 architecture, [learn more](./v2.0/index.md)
+> [!NOTE] As of 2023-03-23, new managed instances are using the v2.0 architecture, [learn more](./v2.0/index.md)
 
 ### Operations
 
@@ -14,10 +14,12 @@ Sourcegraph upgrades every test and customer instances according to [SLA](#slas-
 
 The release process is performed in steps:
 
-1. New version is released via [release guild](../../engineering/guilds/release_guild.md)
+1. New version is released via [release team](../../engineering/teams/release/team/index.md)
 2. GitHub issue in [Sourcegraph Customer repository](https://github.com/sourcegraph/customer) with the `mi2 env create-tracking-issue -e prod $TARGET_VERSION` command
 3. GitHub issue is labeled with `team/cloud` and Cloud Team is automatically notified to perform Managed Instances upgrade. Label is part of the template.
-4. Cloud team performs upgrade of all instances in given order:
+4. Cloud team performs upgrade of all instances in given order depending on the release type:
+
+#### Release process for quarterly major release
 
 | Stage | Working days since release | Action                                                                                                                               | Condition not met?                                                              |
 | ----- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
@@ -34,14 +36,14 @@ Sample upgrade:
 - [tracking issue - 5.1.4](https://github.com/sourcegraph/customer/issues/2251).
 - GitHub Pull Requests for [5.1.4 upgrade](https://github.com/sourcegraph/cloud/pulls?q=is%3Apr+is%3Aclosed+label%3Ami-upgrade+5.1.4)
 
-#### Release process for patch releases
+#### Release process for monthly minor or patch releases
 
 With [bi-weekly patch release schedule](../../engineering/dev/process/releases/index.md#patch-schedule), Cloud Team is using simplified release process to ensure Cloud customers can obtain patch as soon as possible.
 
 | Stage | Working days since release | Action                                                                                                                                                                            |
 | ----- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | 0-2                        | Patch internal instances by Cloud Team (incl. [demo](https://demo.sourcegraph.com/), [clouddev](https://clouddev.sourcegraph.com/) and [rctest](https://rctest.sourcegraph.com/)) |
-| 2     | 3-5                        | Patch trials and customer instances.                                                                                                                                              |
+| 2     | 3-5                        | Patch trials and customer instances. Follow 10%, 40%, 100% in each group respectively                                                                                             |
 
 ### Known limitations of managed instances
 

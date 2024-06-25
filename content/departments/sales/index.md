@@ -2,52 +2,25 @@
 
 The Sales team represents us and our values to customers, bringing back dollars and feedback to help us grow.
 
-- [Account Tiers](https://docs.google.com/document/d/14420oruJWMLKj67ObZiDzRK5GpHmRWXDjlDbH7L6T00/edit?ts=5f7e4023#heading=h.qdguquy7dt7i)
-- [Pricing](https://about.sourcegraph.com/pricing)
-- [Common questions from prospective customers](tools/common_customer_questions.md)
-- [Sales team onboarding](onboarding/index.md)
 - [SDR Team](sdrteam/index.md)
 - [Sales strategy & ops team](sales-ops/index.md)
-- [Sales interview process](hiring/index.md)
-- [Recording lead and customer emails, calls, and notes](tools/records.md)
-- [Using Salesforce](tools/salesforce.md)
-- [Sales Resources](tools/salesresources.md)
-- [Engaging with Legal](process/saleslegal.md)
-- [Engaging with Security](process/salessecurity.md)
-- [Process docs](process/index.md)
-- [Deployment methods and products](./sales-enablement/deployment-methods-and-products.md)
-- [Forecasting Overview](forecasting.md)
-- [Tools](tools/index.md)
-- [Territory Assignment Process](https://docs.google.com/document/d/1XMU4thPPfMcSJJMsQlRDl7a_KbAxX0FXo3QLqLutoc4/edit?usp=sharing)
 - [Sales Performance Goals](sales-performance-goals.md)
-
-## Goals
-
-Find the Sales FY23 Target Market [here](https://docs.google.com/document/d/1w35Nnmc_yQCbweHdTWLiP8lX_D0onl4OrmWJZaRsl7s/edit).
+- [Market Segmentation](../../strategy-goals/strategy/index.md#market-segmentation)
+- [Tools & Resources](tools/index.md)
+- [Process](process/index.md)
+- [Sales team onboarding](onboarding/index.md)
+- [Sales team hiring](hiring/index.md)
+- [SMB team resources](smb/index.md)
 
 ## Members
 
-Not all team members are reflected here yet. If you see yourself missing, please add yourself!
-
 {{generator:reporting_structure.vp_sales}}
+
+{{generator:reporting_structure.sales_ops_strategy}}
 
 ### Roles
 
 See [roles](roles/index.md) page.
-
-## How sales works with other Sourcegraph teams
-
-### [Customer engineering](../technical-success/support/index.md)
-
-- [How CE supports sales](../technical-success/ce/team-culture#sales)
-- [Creating and maintaining license keys for customers](../technical-success/ce/process/license_keys.md)
-
-### [Customer Support](../technical-success/support/index.md)
-
-- [How to request support (for customers)](../technical-success/support/index.md#how-to-get-support-for-customers)
-- [Support SLAs](../technical-success/support/index.md#slas)
-
-### [Team members who want to join calls](onboarding/joining_customer_calls.md)
 
 ## Definitions
 

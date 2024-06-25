@@ -66,7 +66,7 @@ A finalized renewal closed-won after prior contract end date + 1 day and within 
 
 A contract extension (up to thirty days) can be offered free of charge to the end customer with the understanding the customer is considered in their new term.
 
-The contract extension request process is designed with the customer-first strategy; avoiding a poor customer experience where service gets discontinued during a renewal negotiation.
+The contract extension request process is designed to be customer-first; avoiding a poor customer experience where service gets discontinued during a renewal negotiation.
 
 _Quota credit is subject for review in the event a customer churns in one month and gets resuscitated within a 90-day window from the date of churn. Example: Customer A churns in June. Sourcegraph turns off service on the last day of Customer A’s subscription. Customer A comes back to Sourcegraph in August requesting a new enterprise plan. Sourcegraph captures this new enterprise subscription as incremental IARR. Sourcegraph Sales Rep does not necessarily get 100% of the incremental iARR value due to the previous churn and is commensurate with the time/resources in the subsequent sales cycle. The goal of this parameter is to ensure we are incentivizing our sales org to renew customers timely._
 
@@ -79,6 +79,8 @@ _Quota credit is subject for review in the event a customer churns in one month 
 - A credit is applied to the new License fee to reflect the days of unused service. Deal Desk approval is required.
 
 - ARR/IARR should be calculated as follows: Early Renewal Contract ARR - Current Contract ARR.
+
+- For early renewal deals with churn, we will recognize churn on the start date of the new contract. Contract end date + 1 day is our traditional churn guidance, but we will bring it forward for rip and replace deals. Ex: The Customer's contract expires in July 2024, and signs an early renewal in December 2023 with a new start date of February 01, 2024. Even if the Order Form is signed in December, we will not recognize churn until Februry 01, 2024.
 
 ### Other Commercial Considerations and Proposed ARR Treatment:
 
@@ -197,3 +199,12 @@ Existing Sourcegraph customer (Customer A) closed a one-year subscription on Dec
 ### Process for communicating and reporting on, out of Period Adjustments
 
 - Please see our [process](https://docs.google.com/document/d/1J7Z_PW0Fzkti4qRR8iHuSxFeJh7hbEKttp3v5zfAMR8/edit#) for communicating and reporting on, out of period ARR adjustments.
+
+### Discounts for multi-SKU purchases
+
+When discounts are provided to a customer, we recognize and report on them (for non-GAAP metrics, such as ARR) according to the following rules, regardless of what the order form states.
+
+1. First, discounts are applied against all one-time/non-recurring revenue E.g., implementation fees.
+1. Second, discounts are applied proportionally against all recurring SKUs based on list prices.
+
+For an example of the second bullet above: if a customer purchased $100k (list price) of software and $50k of recurring services, but they were only paying $135k (i.e., they had a 10% discount), then we would record it and report it as $90k of software IARR and $45k of services IARR, or 10% off of each product at list price.

@@ -17,6 +17,7 @@ In order to help attract top global talent, Recruiting Operations Specialists al
 - [Slack](https://slack.com/): To communicate with the Talent team and the rest of the Sourcegraph team
 - [Calendly](https://calendly.com/)
 - [Talent Wall](guide_to_using_talentwall.md)
+- [Zapier](https://zapier.com/app/dashboard)
 
 ## How to submit an interview scheduling request
 
@@ -54,7 +55,7 @@ Need an interview scheduled for one of your candidates? Submit a request one of 
 
 ## Interview scheduling
 
-### How to schedule an interview
+### How to schedule an interview for all candidates
 
 **Step 1:** Find the candidate’s profile in Greenhouse by searching for their name.
 
@@ -91,6 +92,30 @@ Need an interview scheduled for one of your candidates? Submit a request one of 
 
 **Note:** Follow the same scheduling steps for internal candidates that you would for external candidates. Send the confirmation email to the internal candidate's Sourcegraph email address so they can add the event to their calendar if they'd like.
 
+### Additional scheduling step for leadership and executive candidates
+
+Unfortunatunately, candidates have to manually download their calendar invites from the confirmation email they receive from Greenhouse. Oftentimes busy executive candidates miss this step or get confused about which zoom link to join if they are scheduled for multiple interviews. As a solution, in addition to the Greenhouse confirmation email, Recruiters should [follow these steps](https://www.loom.com/share/f6716d69982d4b0bbe2c52bae682872a?sid=b846fb09-d00b-4c2b-86fd-ea14a1176a6e) to manually send executive candidates a Google Calendar invite from their personal calendar.
+
+Additionally, the candidate's phone number should always be included in the internal invites to Sourcegraph interviewers in case the candidates need to be contacted right away due to technical issues or logistical misunderstandings.
+
+### How to schedule a debrief
+
+**Step 1:** Create a Google calendar invite titled, "Debrief - {candidate name} - {job title]" and invite all panelists who participated in the interview process
+
+**Step 2:** Mark values interviewers as optional, unless they submitted a scorecard as s a "no decision", "no", or "definitely not"
+
+**Step 3:** Add zoom video conferencing details
+
+**Step 4:** Copy the candidate's Greenhouse URL and paste it into the body of the calendar invite
+
+**Step 5:** Write the words "#brighthire" in the body of the email so that the recorded debrief is tied to the candidate's brighthire page
+
+**Step 6:** Invite debrief@brighthire.ai to the debrief to [streamline your AI notes](https://help.brighthire.ai/en/articles/8639721-use-brighthire-for-intake-debriefs).
+
+**Step 7:** Send the invite at the most optimal time for all interviewers
+
+**Step 8:** When joining the debrief, click "Interview with BrightHire" so that the meeting is recorded.
+
 ### Scheduling best practices
 
 - Scheduling over other meetings on interviewers’ calendars
@@ -108,17 +133,9 @@ Need an interview scheduled for one of your candidates? Submit a request one of 
 - Always seek to improve!
   - Look for opportunities to make your workflow more efficient and if someone has an idea, listen.
 
-### Executive Business Partner breakdown
-
-Please reach out to the following Executive Business Partners directly if you have any questions about the following Sourcegraph executive’s availability:
-
-- [Sally Voisen](../../../../team/index.md#sally-voisen) supports [Quinn Slack](../../../../team/index.md#quinn-slack), CEO
-- [Michal Sennett](../../../../team/index.md##michal-sennett) supports [Beyang Liu](../../../../team/index.md#beyang-liu), CTO & Co-founder, [Carly Jones](../../../../team/index.md#carlycjones), VP People & Talent
-- [Amber Smokowski](../../../../team/index.md#amber-smokowski) supports [Greg Bastis](../../../../team/index.md#greg-bastis), VP Sales, Western Region and [Aimee Menne](../../../../team/index.md#aimee-menne), VP Customer Engineering & Support
-
 ### How to select a Values Interview panel
 
-When creating the interview plan in Greenhouse, the talent team will select 2 values interviewers to participate in the interview process for each role. The talent team aims to include two teammates outside of the department for which a candidate is interviewing.
+When creating the interview plan in Greenhouse, the talent team will select 2 values interviewers at random who have been at the company for 3+ months. The talent team aims to include two teammates outside of the department for which a candidate is interviewing.
 
 ### How to send a candidate interview confirmation email
 
@@ -190,31 +207,129 @@ To generate a US Offer Letter, watch and follow [these steps.](https://share.vid
 
 To generate a non-US Offer letter, watch and follow [these steps.](https://share.vidyard.com/watch/BjoopiomMjB85aJabQPdwu)
 
-## Other Recruiting Operations responsibilities:
+## How to use Zapier to sync Greenhouse and Slack when candidates submit availability
 
-### Project work
+Since Greenhouse will only notify you via email when candidates submit availability (they’re unable to notify you via Slack), you can use Zapier as a workaround if you prefer to receive Slack notifications. Below are two examples of how you can set up Zaps to be notified via Slack when candidates submit availability through Greenhouse.
 
-#### Reporting on candidate survey results to the Talent Team
+### How to create a candidate availability Zap in your Slack DMs for recruiter screens
 
-Recruiting Operations Specialists follow the steps below to send weekly candidate survey results to the Talent team:
+1. Sign into [Zapier](https://zapier.com/app/dashboard) using your Sourcegraph email address. If you do not yet have an account setup, you will need to contact #ask-it-tech-ops and request that they add you to our Sourcegraph account.
 
-1. Click the three dots on the top of the Greenhouse page
+2. Make sure that you’re receiving Gmail notifications when candidates submit availability via Greenhouse.
 
-2. Click on “_Reports_”
+3. Create a “Candidate Availability for Recruiter Screen” folder in your Gmail.
 
-3. Click on “_Candidate Surveys_”
+4. Create the following two Gmail filters in your personal email to ensure that all of the correct notifications are filtered to your candidate availability for recruiter screens folder (this will be a trigger later in your Zap):
 
-4. Click “_Export to excel_” and open in numbers (mac) or excel (PC)
+![Recruiter Screen Availability Gmail Filter](https://storage.googleapis.com/sourcegraph-assets/Recruiter-Screen-availability-Gmail-filter.png)
 
-5. Delete column B because it is not applicable
+5. In Zapier, click “create Zap”
 
-6. Copy all new data from the week and paste it into the Talent team’s candidate survey responses spreadsheet
+6. Create your Zap trigger as follows:
 
-7. Reformat and drag down the average numerical score
-   - The individual and average numerical scores should then automatically be calculated in the spreadsheet, along with the candidate satisfaction rate
+![Recruiter Screen Zap Trigger](https://storage.googleapis.com/sourcegraph-assets/Recruiter-Screen-Zap-Trigger.png)
 
-### Recruitment branding
+7. Include a Text in Formatter that will extract the URL in the body of the email so that it’ll show in Slack:
+
+![Text in formatter recruiter screen](https://storage.googleapis.com/sourcegraph-assets/Text-in-Formatter-Recruiter-Screen-Zap.png)
+
+8. Create the following action on your Zap that will send you a DM when candidates submit availability for their recruiter screens (feel free to change certain settings if you have different preferences):
+
+![Action for recruiter screen availability Zap](https://storage.googleapis.com/sourcegraph-assets/Action-for-Recruiter-Screen-Zap.png)
+
+9. Test your zap. If it works properly, publish it!
+
+### How to create a candidate availability Zap for wg-talent-scheduling channel (for all interview stages except for recruiter screen)
+
+1. Sign into [Zapier](https://zapier.com/app/dashboard) using your Sourcegraph email address. If you do not yet have an account setup, you will need to contact #ask-it-tech-ops and request that they add you to our Sourcegraph account.
+
+2. Make sure that you’re receiving Gmail notifications when candidates submit availability via Greenhouse. If you’re the Recruiting Coordinator responsible for scheduling/creating this Zap, make sure you have notifications turned on for ALL jobs.
+
+3. Create a “Candidate Availability for Recruiter Screen” folder in your Gmail.
+
+4. Create the following two Gmail filters in your personal email to ensure that all of the correct notifications are filtered to a candidate availability folder (this will be a trigger later in your Zap):
+
+![Gmail filter for scheduling Zap](https://storage.googleapis.com/sourcegraph-assets/Gmail-filters-for-scheduling-zap.png)
+
+5. In Zapier, click “create Zap”
+
+6. Create your Zap trigger as follows:
+
+![Scheduling channel zap trigger](https://storage.googleapis.com/sourcegraph-assets/Scheduling-channel-zap-trigger.png)
+
+7. Include a Text in Formatter that will extract the URL in the body of the email so that it’ll show in Slack:
+
+![Text in formatter availability bot](https://storage.googleapis.com/sourcegraph-assets/Text-in-Formatter-by-Zapier.png)
+
+8. Create the following action on your Zap that will send a message to the scheduling channel when candidate submit availability:
+
+![Action on your scheduling channel Zap message](https://storage.googleapis.com/sourcegraph-assets/Action-on-your-scheduling-channel-Zap-message.png)
+
+9. Test your zap. If it works properly, publish it!
+
+## Recruitment branding
 
 Working alongside Marketing to manage recruitment branding strategies on job boards and social media.
 
 Details can be found [here](../process/recruitment_branding.md)
+
+## How to send weekly report to the people & talent team summarizing key hiring metrics
+
+Every Friday, the Talent Operations Specialist sends a weekly report to the private #team-people-and-talent slack channel summarizing key hiring metrics. Below is a step by step instruction on how to do it:
+
+1. Action on the remaining inbound applicants in red on the [candidate freshness by stage](https://app.talentwall.io/dashboard/dashboards/96133) TalentWall report. These are applicants who have not received a response in 5+ days.
+2. Then, take a screenshot of the [candidate freshness by recruiter](https://app.talentwall.io/dashboard/dashboards/77952) TalentWall report and note how many candidates are in red for each recruiter (meaning they haven’t been reached out to in 5+ days).
+3. Run a [Greenhouse candidate survey report](https://app4.greenhouse.io/reports/candidate_surveys?term=&job_status=open&user_role_on_jobs=any_role&include_template_jobs=1&date_relative=current_year&department_ids=&office_ids=&hide_empty_rows=false) across all roles and all departments.
+   1. Export the report to excel
+   2. Delete the “offices” column in excel
+   3. Open the [candidate survey responses](https://docs.google.com/spreadsheets/d/15Ikva2Brt1OJgLu2wq1vFhJSTFAw4NcYOrh6u1Ezlz4/edit#gid=0) Google Sheet
+   4. Copy any new survey responses from the excel sheet from Greenhouse and paste them to the bottom of the candidate survey responses
+   5. Make sure comments and responses are formatted correctly in the candidate survey responses Google sheet. You may need to cut/paste them from the numeric value column into the comments column.
+   6. Color code the comments based on their sentiment. If negative, highlight them red. If neutral, highlight them yellow. If positive, highlight them green.
+   7. Drag the average numerical cursor down for the rows that you input to calculate the average score for the new responses
+   8. Sort “submitted on” Z to A to move the new responses to the top of the spreadsheet.
+   9. Calculate the average score of the new responses and note the comments. You will share these with the talent team in the weekly report.
+4. Build a Greenhouse Custom Report with the following filters in order to highlight the candidates that need compensation data entered. You can use the same report/link each time, so there is no need to rebuild it every week:
+
+![alt_text](https://storage.googleapis.com/sourcegraph-assets/Greenhouse%20Compensation%20Report%20Filters.png)
+
+5. Note the candidates by stage in TalentWall.
+6. After completing the steps above, share your findings to the People / Talent team via Slack. Below is an example message:
+
+#### Example Slack message for People & Talent team summarizing key hiring metrics
+
+Hi Team! Please see this week's recruiting report and action items in :thread:
+
+![alt_text](https://storage.googleapis.com/sourcegraph-assets/Candidate%20Freshness%20TalentWall.png)
+
+**[Candidate Freshness Data](https://app.talentwall.io/dashboard/dashboards/77952)** (attached)
+
+- @Kelsey Nagel you have **45** candidates in red and **29** in yellow
+  - Most of these are not in application review
+- @Grace Bohl you have **45** candidates in red and **29** in yellow
+- @Devon Coords you have **0** candidates in red and **25** in yellow - great job!
+
+:reddown: **[Candidate Survey Responses](https://docs.google.com/spreadsheets/d/15Ikva2Brt1OJgLu2wq1vFhJSTFAw4NcYOrh6u1Ezlz4/edit#gid=0)**
+
+- We received two survey response in Product and Operations (**3.85**)
+  - Operations comment: "More detailed feedback for each round"
+
+:heavy_dollar_sign: **[Compensation Report](https://app4.greenhouse.io/report_builder/report?token=050f35f76512b10f11a6b87214f83be00af01704f48e61496623099fba43eb2d)**
+
+- I've included compensation data for the past 60 days. @Grace Bohl @Kelsey Nagel there are quite a few candidates who are missing data. Can you please go audit?
+- **Recruiter actions:**
+  - @Grace Bohl Please enter comp expectations asap and put a :moneybag: when complete.
+  - @Kelsey Nagel Please enter comp expectations asap and put a :moneybag: when complete.
+  - @Devon Coords Please enter comp expectations asap and put a :moneybag: when complete.
+
+:sourcegraph_logo: **[Active pipeline](https://app.talentwall.io/dashboard/widget-library/active_pipeline)**
+
+- Application Review: 415
+- Recruiter Screen: 59 candidates
+  - @Grace Bohl @Kelsey Nagel - 6 of these are in red. Can you please go through your pipelines and action out candidates who you're not moving forward with?
+- Hiring Manager Screen: 14 candidates
+- Resume Deep Dive: 1 candidate
+- Take Home Test: 2 candidates
+- Team Interview: 11 candidates
+- Final Interview: 6 candidates
+- Outstanding offers: (list candidates)

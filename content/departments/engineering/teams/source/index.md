@@ -7,6 +7,7 @@ The Source team owns everything related to
 - code host connections
 - gitserver
 - repo-updater
+- packages (shared with [Graph](../../teams/graph/index.md))
 
 We provide value to Sourcegraph by ensuring all Sourcegraph features can reliably access code from any code host, with the proper authentication and authorization in place.
 
@@ -18,11 +19,11 @@ For more details, read our [Source strategy & mission](strategy.md)
 
 ## Contact
 
-- #ask-source channel or @source-support in Slack.
+- #discuss-source or @source-support in Slack.
 
 ## Emergency Contact
 
-We run an internal support rotation (see [Support Rotation in Team Source](support_rotation.md)]).
+We run an internal support rotation (see [Support Rotation in Team Source](support_rotation.md)).
 
 You can page the person on support (and possibly wake them up in the middle of the night).
 

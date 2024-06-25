@@ -6,6 +6,21 @@ The handbook is a living document and we expect every teammate to propose improv
 
 All content is in [Markdown](https://www.markdownguide.org/getting-started/#what-is-markdown) files under the [📁 content](./content) folder.
 
+## :warning: Migration to Notion.so
+
+The handbook is hosted on Notion, and https://handbook.sourcegraph.com will redirect to the corresponding Notion.site.
+Redirections listed in `data/notion_migration.yaml` are now handled through Cloudflare.
+
+Please reach-out to [#wg-notion](https://sourcegraph.slack.com/archives/C06T68DBMSA) to add a new one if:
+
+- It's a very important page that was relevant to customers.
+- It's a very important page for the hiring process and emails are in-flight with those URLs.
+
+Please reach-out to [#discuss-dev-infra](https://sourcegraph.slack.com/archives/C04MYFW01NV) directly if:
+
+- You need to scrub content from the handbook (incorrect content has been added before the repo was archived).
+- You absolutely need to push some change, with a very valid reason for it.
+
 ### Need help editing?
 
 Ask in the [#handbook channel](https://app.slack.com/client/T02FSM7DL/CQ44Y7F4G) (for Sourcegraph team members), and/or [post an issue](https://github.com/sourcegraph/handbook/issues).

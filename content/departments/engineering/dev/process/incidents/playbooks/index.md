@@ -17,7 +17,7 @@ In some incidents, we may learn that we need to pause a release.
 
 ## Go-to-market (license and subscription) issues
 
-If a customer is experiencing an issue related to their license key or subscription status, any member of the Sourcegraph team has authority to generate a new, valid license key for any customer for any number of users that is **valid for up to 7 days** in the [site-admin Subscriptions page on Sourcegraph.com](https://sourcegraph.com/site-admin/dotcom/product/subscriptions). This will prevent the initial incident responder from being bottlenecked on a member of the go-to-market team that can validate the customer's subscription status.
+If a customer is experiencing an issue related to their Enterprise license key or Enterprise subscription status, any member of the Sourcegraph team has authority to generate a new, valid license key for any customer for any number of users that is **valid for up to 7 days** in the [site-admin Enterprise subscriptions page on Sourcegraph.com](https://sourcegraph.com/site-admin/dotcom/product/subscriptions). This will prevent the initial incident responder from being bottlenecked on a member of the go-to-market team that can validate the customer's Enterprise subscription status.
 
 The incident responder will need to select a Sourcegraph.com account to attach the subscription to (typically the account should belong to the customer, so they can access the license key directly from their user profile, but in an emergency, the incident responder can use their own account in lieu of asking the customer), and can then manually generate a license key. No license "tags" are necessary.
 
@@ -208,7 +208,7 @@ These commands assume you're on a local machine, and trying to access the live s
 
 #### Helpful aliases
 
-> Note: For the sourcegraph.com database you should refer to the instructions [here](../../deployments/playbooks.md#accessing-sourcegraph.com-database)
+> [!NOTE] For the sourcegraph.com database you should refer to the instructions [here](../../deployments/playbooks.md#accessing-sourcegraph.com-database)
 
 ```bash
 alias dbpod='kubectl get pods --namespace=prod | grep pgsql | cut -d " " -f 1'
@@ -712,3 +712,7 @@ gcloud --project=${TARGET_PROJECT} sql import sql ${TARGET_SERVER_NAME} 'gs://so
 ## [Sourcegraph.com is deleted entirely](dotcom_deleted_entirely.md)
 
 This playbook has a dedicated [page](dotcom_deleted_entirely.md).
+
+## Managed Services Platform
+
+Guidance for Managed Services Platform (MSP) incidents is available in [Managed Services incident response](../../../../teams/core-services/managed-services/incidents.md).

@@ -32,6 +32,7 @@ For example, below is the mental model to approach a project to add support for 
 
 ### How do we update project status?
 
+<!--
 The DRI is expected to provide weekly update in #cloud-internal-status-updates on the project status. For every ongoing project, the DRI should provide update on the current milestone using the following questionnaire. Slack will send a reminder `@cloud-team` every week in #cloud-internal-status-updates to provide the project status updates. Use the `Update Project Status` Slack workflow and fill up the form to provide the update.
 
 - which initiative?
@@ -42,12 +43,16 @@ The DRI is expected to provide weekly update in #cloud-internal-status-updates o
 - what do you plan on working next week?
 
 #cloud EM will aggregate status of all ongoing projects status and broadcast with the organization in #cloud. In the future, we may consider having a rotation for the weekly combined update.
+-->
+
+Use go/ship-okrs
 
 ## On-call (support) rotation
 
 We maintain an [on-call rotation in Opsgenie](https://sourcegraph.app.opsgenie.com/teams/dashboard/9ec2825d-38da-4e2b-bdec-a0c03d11d420/main). Responsibilities of the teammate who is on-call include:
 
-- Acknowledging incoming alerts
+- Acknowledging and triaging incoming alerts on Opsgenie in a timely fashion, including low priority alerts such as P3, P4 alerts.
+- Acknowledging inquires in #discuss-cloud-ops or being tagged via the `@cloud-support` handle. Please follow [intake process](#
 - Initiating incident procedures
 - Publishing postmortems
 
@@ -57,6 +62,18 @@ The on-call engineer is expected to be available to respond to alerts and to ini
 
 This means that an on-call engineer has the ability BUT IS NOT REQUIRED to work on tasks that improve the reliability of Sourcegraph Cloud.
 Examples include work right-sizing instances to reduce the number of alerts. They may choose to work on these tasks instead of their assigned work.
+
+### On-call issues intake process
+
+We generally see two categories of issues:
+
+- CAT1: escalated by TA/CE/CS
+- CAT2: surfaced from our preconfigured alerts on Opsgenie
+
+For CAT1 issue, first perform some basic sanity check to rule out any infra problem, e.g., workload resource utilization, infra components states.
+If it is determined to be non-infra problem, route the request to the owning team from go/whodoinotify directory. Cloud Ops team focus should be around builing tooling to operate fleet of Cloud instances, and we should delegate troubleshooting application-specific issues to the product team to protect our focuse. If the issue is deem incident-worthy, encourage the product team to open and own the incident, while making ourself available to support them.
+
+For CAT2 issue, our team will continue to own the end-to-end process. However, escalate problem to the product team once it's determined to be application-specific problem.
 
 ## Communication
 

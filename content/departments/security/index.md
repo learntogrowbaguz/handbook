@@ -75,95 +75,96 @@ In an effort to work closely with our teammates and shift security focus more in
 
 - **Does this mean I can't talk to anyone else on the security team?**
 
-  - Absolutely not. You are welcome to reach out to anyone in the security team at anytime. We encourage everyone to use the #security slack channel.
+  - Absolutely not. You are welcome to reach out to anyone in the security team at anytime. We encourage everyone to use the #discuss-security slack channel.
 
 - **Who is the ambassador for my team?**
-  <table>
+<table>
   <tr>
-   <td><strong>Division/Team</strong>
+   <td>
+<strong>Team Name</strong>
    </td>
-   <td><strong>Assignee</strong>
+   <td><strong>Ambassador</strong>
    </td>
   </tr>
   <tr>
-   <td>Search Core
+   <td>Cody AI
    </td>
-   <td>Vincent
-   </td>
-  </tr>
-  <tr>
-   <td>Search Product
-   </td>
-   <td>Vincent
+   <td>Will
    </td>
   </tr>
   <tr>
-   <td>Code intelligence
+   <td>Cody Growth Enterprise
    </td>
    <td>André
    </td>
   </tr>
   <tr>
-   <td>Batch Changes
+   <td>Cody Growth PLG
    </td>
-   <td>Vincent
+   <td>Will
    </td>
   </tr>
   <tr>
-   <td>Cloud
+   <td>Cody Product Experience
+   </td>
+   <td>Dora
+   </td>
+  </tr>
+  <tr>
+   <td>Cloud Ops
    </td>
    <td>André
    </td>
   </tr>
   <tr>
-   <td>Code insight
-   </td>
-   <td>André
-   </td>
-  </tr>
-  <tr>
-   <td>Repo management
+   <td>Core Services
    </td>
    <td>Vincent
    </td>
   </tr>
   <tr>
-   <td>Delivery
+   <td>Dev Infra
    </td>
    <td>Mohammad
    </td>
   </tr>
   <tr>
-   <td>Developer Infrastructure
+   <td>Release
    </td>
-   <td>Mohammad
+   <td>Dora
    </td>
   </tr>
   <tr>
-   <td>Front End Platform
+   <td>Graph
+   </td>
+   <td>Shiva
+   </td>
+  </tr>
+  <tr>
+   <td>Search
    </td>
    <td>Vincent
    </td>
   </tr>
   <tr>
-   <td>Growth and Integrations
+   <td>Source
    </td>
-   <td>Feroz
+   <td>Vincent
    </td>
   </tr>
   <tr>
-   <td>IAM
+   <td>Search Suite
    </td>
-   <td>Feroz
+   <td>Shiva
    </td>
   </tr>
+  <tr>
    <td>Tech Ops
    </td>
    <td>Mohammad
    </td>
   </tr>
-  <tr>
-  </table>
+</table>
 
 ---
 
@@ -224,6 +225,16 @@ We are responsible for maintaining company-wide security policies. You can find 
 ## Secure coding guidelines
 
 The secure coding guidelines contain information on how to address and prevent certain types of vulnerabilities. It's a required read for engineers at Sourcegraph and is finished by completing a short assessment. The training and guidelines can be found [here](./secure-code-training.md).
+
+## RFC reviews
+
+Security should be added as an approver to the RFC if it:
+
+- Proposes changing handling of customer data
+- Proposes updates or new infrastructure
+- Proposes accepting risk instead of other tradeoffs
+
+We would much rather take a look at RFCs we didn't need to than miss important RFCs. When in doubt, definitely ask us for a review.
 
 ## Data Sharing
 

@@ -69,12 +69,15 @@ All departments are likely to have some or all of the below universal interview 
 - Duration: 60-minutes.
 - Details: a resume deep dive (often referred to as a "Topgrade Interview") is an interview style where we take a deep dive into a candidate's background, past to present. The goal of a resume deep dive is to uncover the motivation behind a candidate's decision making, as well as their strengths, weaknesses, and accomplishments in past roles. [Here](https://www.lever.co/blog/topgrading-interview-guide/) is a document to help guide expectations on this stage in the interview process. This is simply an example of what to expect, and does not represent the questions we will be asking.
 - Example questions:
-  - How did you find your job? Why did you choose to accept it?
+  - College (if applicable): how did you choose to go to this college? How did you choose your major? Did you know what you wanted to do upon graduation?
+  - How did you find your job? Did you interview anywhere else? If so, why did you decide to accept this offer vs others?
   - Who hired you? What was their name? What did they hire you to do?
-  - Why would your former boss say were your strengths and opportunities for growth?
-  - What did you like most and least about your job?
-  - What would your peers say about you?
-  - What are you most proud of accomplishing while in your job?
+  - When I potentially talk to your former boss as a reference, would will they say were your strengths and opportunities for growth?
+  - How did you implement this feedback to improve? What do _you_ think is the area that you needed to improve the most?
+  - What did you like most and least about working with your manager?
+  - How would your manager describe your working relationship with your peers? What would your peers say about you?
+  - What are you most proud of accomplishing while in this job?
+  - If you could go back in time, what would you do differently?
   - Why did you leave?
 
 ## Peer Interview
@@ -97,21 +100,18 @@ All departments are likely to have some or all of the below universal interview 
 
 ## Leadership Interview
 
-- Interviewer: a member of the leadership team for the department.
+- Interviewer: a co-founder or member of the executive team.
 - Duration: 30–45 minutes.
-- Details: during this stage in the interview process, a member of the leadership team for the department will ask questions to gain more insight into the following areas: your grit, curiosity, passion, growth mindset, intelligence, and values. They will also answer any final questions you may have! This is generally the last stage in our interview process.
-- Leadership interviews tend to vary by department, role, and leader. Your recruiter will prepare you and answer any questions you may have prior to the interview.
+- Details: during this stage in the interview process, a co-founder or member of the exec team will ask questions to gain more insight into the following areas: your background, your motivation for looking for new opportunities, a project that you're proud of, your coding proficiency, your long term career aspirations, and areas in which you would like to grow. They will evaluate your grit, curiosity, passion, technical aptitude, growth mindset, intelligence, and values. At the end of the interview, they will answer any questions you may have!
 
 ## Values Interview
 
-Read more about our values interview [here](evaluating_values.md).
-
 - Interviewers: two teammates outside of the department for which you're interviewing.
 - Duration: 30-minutes.
-- Details: this interview is focused entirely on our values and how a candidate's views and experiences align with them. Our values are key to our success as individuals and as a company. You can read more about them [here](../../../../company-info-and-process/values/index.md).
-- Example questions: We will ask behavioral-based, open-ended questions directly related to our values.
-  -Tell us about a time when you advocated for someone else
-  -Tell us about a project you are most proud of completing
+- Details: this interview is focused entirely on our values and how your views and experiences align with them. Our values are key to our success as individuals and as a company, so please read more about them [here](../../../../company-info-and-process/values/index.md) prior to your interview.
+- You will be asked behavioral-based, open-ended questions directly related to each one of our four values. For example:
+  - Tell us about a problem that you identified and then took the initiative to solve, even if it wasn't within your scope of work.
+  - Tell us about a time where you proactively provided candid feedback to a colleague, manager or direct report.
 
 # Department specific interviews
 
@@ -256,7 +256,7 @@ For the demo, use sourcegraph.com - it's our free open source version of our pro
 
 <span style="text-decoration:underline;">Team Size</span>:
 
-- Planet Express is a shipping logistics tech company with 1000 developers
+- Planet Express is a customer in the dev tools space with 1000 developers
 - 250 engineers came from a recent acquisition
 
 <span style="text-decoration:underline;">Tech Stack</span>:
@@ -318,7 +318,7 @@ Some questions to guide your brainstorming and the working session:
 
 1. What are your ideas and plans for improving the team and our ability to positively impact the business and our prospective and current customers?
 2. What gaps exist in our current process? What are the greatest opportunities for improvement? How might you address those?
-3. What would you need from your direct peer, Gronk (CE RD EMEA), your team leads, Alex and Dan, and your cross-functional peers in Sales, Support, Post-Sales, and Engineering?
+3. What would you need from your direct peer, your team leads, and your cross-functional peers in Sales, Support, Post-Sales, and Engineering?
 
 **Background information**
 
@@ -369,6 +369,64 @@ Time in Stage 4 (Trial)
 
 ### Enterprise Technical Advisor
 
+#### Technical Advisor Technical Assessment
+
+Technical Advisors at Sourcegraph must become experts with the product and how to extend its capabilities to help customers realize the value of their business goals. This technical assessment is designed to understand how you would leverage product functionality to improve adoption, prove value, and speak fluently to engineering audiences about code.
+
+Understanding concepts like code migrations, updates, code antipatterns, and tech debt is important to discussing use cases with end-user developers.
+
+Our customer Planet Express is a customer in the dev tools space with 1000 developers, with 250 of those developers coming from a recent acquisition.
+
+**Prompts 1 and 2 are required. Answer at least <span style="text-decoration:underline;">one</span> prompt from prompts 3, 4, and 5. \
+You are encouraged to use the following resources to answer the prompts:**
+
+1. [https://docs.sourcegraph.com/](https://docs.sourcegraph.com/)
+2. Sourcegraph Cody
+   1. [Cody for Web](https://docs.sourcegraph.com/cody/overview/cody-with-sourcegraph#cody-for-web)
+   2. [Download installers](https://docs.sourcegraph.com/cody/overview/app#installation)
+3. [https://sourcegraph.com/search](https://sourcegraph.com/search)
+4. [https://docs.sourcegraph.com/api/graphql](https://docs.sourcegraph.com/api/graphql)
+5. [Working with the SG GraphQL API](../../../technical-success/ta/enterprise-success/team-culture/working-with-the-sourcegraph-graphql-api.md
+
+**Prompt 1 - Sourcegraph Product - Dev use cases (required)**
+
+Sourcegraph helps devs with daily coding tasks.
+
+- Provide examples of 3 different daily tasks a typical dev may perform.
+- How can Sourcegraph help increase their productivity with them?
+  - Bonus: Provide examples of Sourcegraph search queries or Cody commands.
+
+**Prompt 2 - Sourcegraph Product - Features (required)**
+
+Planet Express is a customer in the dev tools space with an industry-leading Code AI Platform. They currently only use Sourcegraph Code Search and Batch Changes to increase the productivity of their developers with daily tasks.
+
+- What other product features of Sourcegraph could help a customer like Planet Express realize value from our Code AI Platform, and how?
+- How would you pitch the features above to a customer champion of Planet to encourage adoption? We know that Planet Express devs and leaders are interested in:
+  - Measuring how internal code frameworks are being used and adopted.
+  - Keeping track of compliance with best practices and coding standards.
+
+**Prompt 3 - Sourcegraph Product - Batch Changes (optional)**
+
+Good news, everyone!! Planet Express has acquired Sourcegraph to strengthen its position in the dev tool space. To prepare for our merger, we need to write a batch change that looks through all of Sourcegraph’s public repositories and updates any text references of "Sourcegraph" to "Planet Express".
+
+- Provide a step-by-step explanation of how a developer would do this. Providing pseudo-code or code is a plus.
+
+**Prompt 4 - Coding Best Practices (optional)**
+
+- What are some common coding anti-patterns and vulnerabilities, and how could you use Sourcegraph to find them?
+- How would you set up [code monitoring](https://docs.sourcegraph.com/code_monitoring) to constantly check for such coding anti-patterns?
+
+**Prompt 5 - Using Sourcegraph's GraphQL API (optional)**
+
+How would you use the Sourcegraph GraphQL API to list the different coding languages used in the [sourcegraph/cody repo](https://github.com/sourcegraph/cody)?
+
+- Explain what the Sourcegraph GraphQL API empowers developers to do.
+- Provide a step-by-step description of how you would use the [Sourcegraph API Console](https://sourcegraph.com/api/console) for this.
+- Provide either:
+  - Pseudocode
+  - The GraphQL query that you used
+  - Link to the [Sourcegraph API Console](https://sourcegraph.com/api/console) with the pre-filed query and results. (example: [List all files in a repository](<https://sourcegraph.com/api/console#%7B%22query%22%3A%22query%20ListFiles(%24repoName%3A%20String!)%20%7B%5Cn%20%20repository(name%3A%20%24repoName)%20%7B%5Cn%20%20%20%20commit(rev%3A%20%5C%22HEAD%5C%22)%20%7B%5Cn%20%20%20%20%20%20tree(path%3A%20%5C%22%5C%22%2C%20recursive%3A%20true)%20%7B%5Cn%20%20%20%20%20%20%20%20entries%20%7B%5Cn%20%20%20%20%20%20%20%20%20%20path%5Cn%20%20%20%20%20%20%20%20%20%20isDirectory%5Cn%20%20%20%20%20%20%20%20%20%20url%5Cn%20%20%20%20%20%20%20%20%7D%5Cn%20%20%20%20%20%20%7D%5Cn%20%20%20%20%7D%5Cn%20%20%7D%5Cn%7D%5Cn%22%2C%22variables%22%3A%22%7B%5C%22repoName%5C%22%3A%20%5C%22github.com%2Fgorilla%2Fmux%5C%22%7D%22%2C%22operationName%22%3A%22ListFiles%22%7D>))
+
 #### Leadership Panel Interview
 
 The final formal interview step is an hour-long panel interview with leadership and a senior member of the team. This is a working session-style interview panel intended to help us understand how you’ll approach customer scenarios and demonstrate how you have handled those situations in the past.
@@ -405,6 +463,10 @@ You'll meet with two individual contributors on the TA team to learn about how y
 - [Resources for Hiring Managers and Teammates](engineering_interview_process.md)
 
 ## Marketing
+
+### Marketing Operations Manager Working Session
+
+Cody is now GA, and we are ready to build out a PQL process. Describe the steps you would take to develop a scoring model, what the model would look like (in detail), and what steps you would take to implement this new PQL process. Feel free to put together slides or a doc to share your ideas/findings. The expectation is that you will share your screen and present for 15 minutes, and we will spend the remainder of the time asking follow-up questions.
 
 ### Content working session
 
@@ -477,6 +539,53 @@ You'll meet with two individual contributors on the TA team to learn about how y
 - Please don't go overboard on preparation, plans, or detail. Clever ideas are awesome, but we're looking for your process/framework/principles. A Google Doc outline is how we'd start off content planning. Doesn't have to be pretty. If you prefer slides, that's fine. This will be a casual back and forth conversation; not a formal presentation.
 - Feel free to reach out to Amie (amie.rotherham@sourcegraph.com) with any questions.
 
+### Developer Relations Working Session
+
+**Context**
+
+Sourcegraph’s mission is to make it so everyone codes. Sourcegraph is a code AI platform with two primary products Cody and Code Search.
+
+- **Cody**: Code AI that writes code and answers questions for you by reading your entire codebase and the code graph.
+- **Code Search**: Code search, plus features such as batch changes, code insights, and code monitoring.
+
+As a Sourcegraph Developer Advocate, you're the link between Sourcegraph and developers worldwide. You'll champion Cody and Code Search, collect feedback, and cultivate relationships, with the ultimate goal of driving wider adoption of Cody and Code Search.
+
+**Presentation**
+
+Present your game plan for your contribution to the Sourcegraph 5.0 launch in a 20-25 minute presentation. The game plan should include:
+
+Strategy:
+
+- What type of content would you produce (blog post, video, talk, tweet thread, livestream, sample app, etc.) and why.
+
+Content Blueprint:
+
+- If you would create multiple types of content, choose one and create the concrete message for that content. This should contain the actual copy of what you would say.
+- If a blog post, it's the first paragraph(s) that get across the hook and main idea plus an outline of the rest of the post.
+- If a video, it's the first 15-30 seconds of monologue or dialog plus an outline of the rest of the video.
+
+Impact:
+
+- How would you promote this content to the developer audience for maximum impact?
+- What is the desired outcome of this content (engagement, activation, awareness, etc.)
+
+Performance Metrics:
+
+- Which KPIs would you track to validate success, and what would be your goal for that KPI?
+
+You can reference the [5.0 release post](https://about.sourcegraph.com/blog/release/5.0) or any other material you find online. Feel free to be creative and original—the best presentations often are.
+
+**Additional Resources**
+
+Here are a couple of additional resources to help you.
+
+- [Sourcegraph Handbook](../../../../index.md)
+- [Cody VS Code Extension](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)
+- [Product Documentation](https://docs.sourcegraph.com/)
+- [Company Blog](https://about.sourcegraph.com/blog)
+- [YouTube Channel](https://www.youtube.com/@Sourcegraph)
+- [Github Organization](https://github.com/sourcegraph)
+
 ## People Operations
 
 ### Senior People Partner working session
@@ -504,7 +613,7 @@ As our new Senior People Ops Generalist, you will be building processes and prog
 
 **Prompt 1:**
 
-1. Choose one of the following handbook pages to review: [Impact Reviews ](../../people-ops/process/teammate-sentiment/impact-reviews/index.md) **_or_** [Onboarding](../../../../company-info-and-process/onboarding/index.md)
+1. Choose one of the following handbook pages to review: [Impact Reviews ](../../people-ops/process/teammate-sentiment/impact-reviews/index.md) **_or_** [Onboarding](../../people-ops/process/onboarding.md)
 2. Come up with ideas on how you would improve this page and/or process for our teammates. _Things to consider:_
    1. Does the content set clear expectations on what to expect?
    2. Have we accounted for common questions teammates may have? If not, what’s missing? Is the answer located elsewhere in the handbook?
@@ -527,9 +636,20 @@ As our new Senior People Ops Generalist, you will be building processes and prog
 
 ### Product Manager
 
+#### Team Collaboration / Resume Deep Dive
+
+- Interviewer(s): A member of the team for which you're interviewing
+- Duration: 60 minutes
+- Details: A Sourcegraph teammate will ask experience and behavioral based questions about your skills, values, and work history in order to gauge whether they're aligned with the requirements of the role. The goal of the interview is to:
+  1. Get an understanding of your technical depth and how you would contribute to and/or collaborate with our engineering team
+  2. Take a [deep dive](index.md#resume-deep-dive) into your background from past to present with the goal of uncovering the motivation behind your decision making, strengths, weaknesses, and accomplishments in past roles.
+  3. Get a high level understanding of how your views and experiences align with [our values](../../../../company-info-and-process/values/index.md).
+
+The interviewer will leave time at the end to answer any questions that you have. This stage is meant to be conversational and informative for both you and us.
+
 #### Async writing project
 
-- Interviewer(s): NA—this is a take home assignment. [Two members from the Product team](../../../engineering/product/index.md) will review your PR-FAQ and discuss it with you in the next round of interviews.
+- Interviewer(s): NA—this is a take home assignment. [Two members from the Product team](../../../product/index.md) will review your PR-FAQ and discuss it with you in the next round of interviews.
 - Duration: ~1 hour
 - Details: This is a take home writing assignment to see how you communicate and think about product problems.
 
@@ -574,17 +694,17 @@ Please send link to your Google doc using the link below when you are finished.
 
 #### Product Manager overview of past projects
 
-Please bring an overview of one or two past project(s) we can use to dig deep in to understand your thought process. This overview can be any format (PDF, Google Slides, written document with screenshots, etc) which helps you clearly outline the project. Ideally, this project...
+Please be prepared to share your screen and walk the panel through an overview of one or two past project(s) that they can use to dig deep in to understand your thought process. This overview can be any format (PDF, Google Slides, written document with screenshots, etc) which helps you clearly outline the project. Ideally, this project...
 
 - is something that you played a key role in from inception to delivery
 - had a number of iterations to get to the outcome
 - leverages data to make decisions along the way
 
-This interview will include a PM and designer from our team who have been focusing on growth. They will use the hour to dig into the project info you prepared to understand how you think about running growth projects.
+The panel will include PMs, a designer, and our Head of Product. They will use the hour to dig into the project info you prepared to understand how you think about running projects.
 
 #### Product interview
 
-- Interviewer(s): [Product Manager and a Product Designer](../../../engineering/product/index.md) who were the reviewers of the PR-FAQ.
+- Interviewer(s): [Product Manager and a Product Designer](../../../product/index.md) who were the reviewers of the PR-FAQ.
 - Duration: 1 hour
 - Details: In this interview, you will review your RFC and deep dive on how you work as a product manager. Be prepared to discuss the actual proposal, what happened and what you could have done differently. We will be looking for how you use data to drive decisions and get buy-in from collaborators. How you have created solutions for customers, representing their voice across the organization. We will talk about product development prioritization, and how you balance priorities of what our customers want with Engineering resources.
 
@@ -640,21 +760,42 @@ As a reference point, we recently had a product launch in June (Sourcegraph 5.1)
 
 Please don't go overboard on preparation, plans, or detail. A simple Google Doc outline is ideal, and we will use that to go through your ideas together. We intend this to be a casual back and forth conversation, not a formal presentation. Also, feel free to make any assumptions about the hypothetical product and include them in your document.
 
+### Technical Program Manager
+
+#### Project planning working session
+
+For the working session, we ask that you come prepared to share an overview of a project where you were given a vague set of requirements on a highly ambiguous project. Things to consider/highlight:
+
+- How did you pull all of it together into a plan from start to finish?
+- Who did you need to get approved & buy-in from & how did you do that?
+- How was the project executed?
+- What are the results of the project ?
+- What did you learn from it?
+
+Please be prepared to share your screen and walk the panel through your presentation. This overview can be in any format (PDF, Google Slides, written document with screenshots, etc), which helps you clearly outline the project.
+
+Agenda:
+
+- 5 mins: Quick introductions
+- 20 mins: Candidate sharing screen & presenting project
+- 20 mins: Follow-up questions from the panel
+- 15 mins: Discussion & questions from candidate to panel
+
 ## Design
 
 ### Product Designer
 
 #### Portfolio review
 
-- Interviewer(s): [Two Product Designers](../../../engineering/product/index.md).
+- Interviewer(s): [Two Product Designers](../../../product/index.md).
 - Duration: 1 hour
 - Details: In this interview, we will be looking for you to give some real insight into a problem you were solving as part of a project you’ve worked on. We would like you to lead us through this problem or case study in detail. We’ll look to understand the size and structure of the team you were a part of, the goals of the project, your low-fidelity design work, your high-fidelity design skills, how you approached research, how you synthesized research data to inform design decisions, what design standards and guidelines you worked within, and how you collaborated with a wider team. We are particularly interested in your process for the project, the outcomes, the challenges you encountered, and tradeoffs you made.
 
-#### Design exercise
+#### Design working session
 
-- Interviewer(s): [Product Manager, Product Designers](../../../engineering/product/index.md), and a Frontend engineer.
+- Interviewer(s): [Product Manager, Product Designers](../../../product/index.md), and a Frontend engineer.
 - Duration: 1.5 hours
-- Details: The interview simulates a real-life design collaboration as closely as possible. The goal is to build something together and to understand the way you think about design in practice. We will give you a specific problem to solve for Sourcegraph and would like you to walk us through your design process. We will be evaluating the process, not the final outcome of the solution. Please be prepared to work in your favorite design tool for wireframes and low fidelity mockups.
+- Details: The interview simulates a real-life design collaboration as closely as possible. We'll brief you on a project we've already completed and then you'll lead us in some early ideation. Finally, we'll discuss how you would proceed with the project if it were a real effort. Our goal is to give you an introduction to the types of problems you'll be solving and the people you'll be working with. On our end, we'd like to understand how you think about design in practice. Please come prepared to work in your favorite design tool for wireframes and low-fidelity mockups. You can read more about the session [here](../../../product/roles/interviews/product_designer/pd_design_working_session.md).
 
 ### Product Design Intern
 
@@ -668,13 +809,13 @@ Please don't go overboard on preparation, plans, or detail. A simple Google Doc 
 
 #### Research RFC Project
 
-- Interviewer(s): NA—this is a take home assignment. [Two members from the Product team](../../../engineering/product/index.md) will review your RFC and discuss it with you in the next round of interviews.
+- Interviewer(s): NA—this is a take home assignment. [Two members from the Product team](../../../product/index.md) will review your RFC and discuss it with you in the next round of interviews.
 - Duration: ~1 hour
 - Details: This is a take home writing assignment to learn more about research you have conducted for a real user/problem you helped identify, plan and facilitate that led a product update. We would like to see how you frame and communicate your research approach, how you measure and think about potential impact it may have to the product, and your "why" behind decisions made. We will look to understand the problem or question your research is addressing, your research approach, how you analyze and synthesize your data, and ultimately how you communicate those outcomes to stakeholders. We are particularly interested in learning about tangible metrics, indicators of success, or insights that you came away with from your research.
 
 #### Research Interview
 
-- Interviewer(s): [Product Manager and a Product Designer](../../../engineering/product/index.md) who were the reviewers of the RFC.
+- Interviewer(s): [Product Manager and a Product Designer](../../../product/index.md) who were the reviewers of the RFC.
 - Duration: 1 hour
 - Details: In this interview, you will review your RFC and deep dive on how you work as a User Researcher. Be prepared to do a walkthrough of your assignment, your decision making behind the "why" of your approach, how you collaborated with others during the process, how you presented your insights to stakeholders in a meaningful and clear way, and what happened and what you could have done differently. We are particularly interested in how you were able to collaborate with product, design, and engineering throughout the process. We will also be looking for how you used insights you gathered to make next-step recommendations to stakeholders.
 
@@ -722,7 +863,7 @@ A great resource on structure (including some great walkthrough videos) from [Be
 - Interviewer(s): Hiring Manager + Account Executive(s)
 - Duration: 45-minutes.
 - Purpose: during the sales presentation, you will 1) walk the panel through a brief introduction/bio of yourself, 2) deep-dive into an enterprise deal you have led, and 3) present a pipeline generation plan (including 10 top target accounts you would pursue based on your understanding of Sourcegraph's value proposition, your personal relationships, and relevant information about the prospect companies that you believe lead to a high probability of engagement). The goal of this interview is for us to understand: 1) your past experience and skill set (via your intro), 2) whether you can command a sales process (via the deep-dive), and 3) your understanding of our value proposition and approach towards territory development.
-- **Very important:** please use [this template](https://docs.google.com/presentation/d/1Tl5XdoMog8QEzEZFAHVHrOYAfjlOh7tomZKlVdxwGeA/edit#slide=id.g9288fdfdea_0_109) for your presentation and please check out the speaker notes - they have a lot of detail on what we are looking for! If you have any issues accessing the presentation, please email recruiting@sourcegraph.com.
+- **Very important:** please use [this template](https://docs.google.com/presentation/d/1uERGh_qcNiaLhTjln_lserWk6Ep_ewOQO6rkLvpwm-M/edit#slide=id.g9288fdfdea_0_109) for your presentation and please check out the speaker notes - they have a lot of detail on what we are looking for! If you have any issues accessing the presentation, please email recruiting@sourcegraph.com.
 
 #### Enterprise AE team collaboration with Customer Engineering
 

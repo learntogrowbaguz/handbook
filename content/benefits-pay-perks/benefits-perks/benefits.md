@@ -1,6 +1,6 @@
 # Health benefits at Sourcegraph
 
-US-based Teammates are eligible for health benefits, which are determined jointly by the People and Finance teams on an annual basis. Our benefit plans and information can all be found [Sequoia](#benefits-support). Request the password in the [#ask-people-team](https://sourcegraph.slack.com/archives/ask-people-team) Slack channel.
+US-based Teammates are eligible for health benefits, which are determined jointly by the People and Finance teams on an annual basis. Our benefit plans and information can all be found [Sequoia](#benefits-support).
 
 ## Eligibility
 
@@ -42,49 +42,67 @@ US-based new hires have 30 days from their start date to enroll in insurance cov
 
 You can waive your insurance coverage through [Rippling](https://help.rippling.com/s/article/360056300693). Insurance coverage is automatically waived for any teammate who doesn’t select insurance during their first 30 days.
 
-#### 2023 Open enrollment:
+#### Changes to personal information
 
-**What:** Open Enrollment is your once-a-year opportunity to review and change your plans, add/or remove dependents, and review your costs and contribution for benefits in the coming year. Outside of open enrollment, you can only make changes to your insurance if you have a "qualified life event" - such as a marriage, or the birth of a child.
+Updates to the following information must be noted **in both Bamboo and [Rippling](https://help.rippling.com/s/article/360056300693)**:
+An employee’s name, address, phone number, gender, Social Security Number, or date of birth, as well as updates to a dependent’s name, relationship type, gender, Social Security Number, or date of birth.
 
-**When:** Sourcegraph’s 2023 US Benefits open enrollment took place from 2022-11-01 to 2022-11-15.
+## **2024 Open enrollment:**
 
-**How**: To make changes to current benefit elections, or confirm existing elections, please follow instructions in your [Rippling](https://app.rippling.com/) account (use the taskbar on the left-hand side to navigate to the heart icon labeled “insurance and benefits.” From here, you should see the option to start your plan selections). Any plan changes, or confirmations, will become effective as of 2023-01-01.
+**What:** Open Enrollment is your once-a-year opportunity to review and change your plans, add/or remove dependents, and review your costs and contribution for benefits in the coming year. Outside of open enrollment, you can only make changes to your insurance if you have a “qualified life event” - such as a marriage, or the birth of a child. You can find a recording of our Open Enrollment Session [here](https://sequoiaconsulting.zoom.us/rec/play/BNQTGICUcqsIfjgDvVGMFkX_OTyRC32fJCsTzbNEnAMwJhklnmDF7gQDsEPpdjvY_HGCcE_6eYjR6YZ4.Q-LDyHze0pfXMudh?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsequoiaconsulting.zoom.us%2Frec%2Fshare%2F080yjjFM2_M3BCFAU-L3575kb7jda6FrIbVJ9uj6NhF3C1kt-pwu4xtOVLq6iZOr.o8DQVS7yWBcb68s5).
 
-## 2023 Benefit plans
+**When:** Sourcegraph’s 2024 US Benefits open enrollment took place from <span style="text-decoration:underline;">2023-11-20</span> to <span style="text-decoration:underline;">2023-12-01</span>.
 
-US-based teammates can use this [Rippling tool](https://app.rippling.com/benefits/preview/or8vgxl35ymgb56b) to review insurance plan options as PDFs. Premiums for teammates, spouse, and dependents are covered 100%. You can also reference these PDFs below:
+- **Note:** If you start at Sourcegraph during open enrollment Rippling will walk you through new hire enrollment for 2023 benefits **and** open enrollment for 2024 benefits. If you start after 2023-12-01 Rippling will also walk you through **both** new hire enrollment and a special open enrollment window.
+
+**How:** To make changes to current benefit elections, or confirm existing elections, please follow instructions in your [Rippling](https://app.rippling.com/) account (use the taskbar on the left-hand side to navigate to the heart icon labeled “insurance and benefits.” From here, you should see the option to start your plan selections). Any plan changes, or confirmations, will become effective as of <span style="text-decoration:underline;">2024-01-01</span>.
+
+## **2024 Benefit plans**
+
+US-based teammates can use this [Rippling tool](https://app.rippling.com/benefits/preview/or8vgxl35ymgb56b) to review insurance plan options as PDFs. Our Premiums for teammates, spouse, and dependents are covered 100%. You can also reference these PDFs below:
 
 Medical:
 
 - UnitedHealthcare EPO
-  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1G18wzLAxelrmUdjN-IKyMroDM8-DmBCV/view?usp=sharing)
-  - [Plan Summary](https://drive.google.com/file/d/1c2QoMlgz2Xrwz7bxNzS-MiYWaYdCqu7z/view?usp=sharing)
+  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/11ySZ0vBCB-QfhXSQujFb57jWY5BGNEjE/view?usp=sharing)
+  - [Summary of Benefits and Coverage (CA residents only)](https://drive.google.com/file/d/1Y5LFBKhAOZIphBGWkWwTu8CjxriGFdX3/view?usp=sharing)
+  - [Summary of Benefits and Coverage (HI residents only)](https://drive.google.com/file/d/1vJuh0wVP0IQ6hwL3L5OTQiJ3z0b2fatN/view?usp=sharing)
+  - [Plan Summary](https://drive.google.com/file/d/16oOz0XJBstGRkITeAV72HRromN-pie9g/view?usp=sharing)
+  - [Plan Summary (CA residents only)](https://drive.google.com/file/d/1C2CZ6vhzvoBme5RXDoFuwvuVTdOSf9_R/view?usp=sharing)
+  - [Plan Summary (HI residents only)](https://drive.google.com/drive/u/0/folders/1InLrX7pPp6vZayiOrfFNSkD3i-jpRNLS)
 - UnitedHealthcare PPO 250
-  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/16keAAT080vqgpduTWB394pjgpGa9Dq1d/view?usp=sharing)
-  - [Plan Summary](https://drive.google.com/file/d/1_UInCXYibFlG_EY9yCcc7mCNyeADF9I9/view?usp=sharing)
-- UnitedHealthcare HSA 1500
-  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1GjMU2lAeDp0IvHYyb1WJqUeC6Ajx_Zob/view?usp=sharing)
-  - [Plan Summary](https://drive.google.com/file/d/1Fco1hEvPGYO7ycRoUAlouf3d8G3gKfRD/view?usp=sharing)
-- Kaiser HMO
-  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1mOqIGOy3azcfhV9WmQbn8FxPFZCoCuE6/view?usp=sharing)
-- Kaiser HSA 3000
-  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1CtUg58qlrKH8G9tjWeJFB3cb9CyXbMtb/view?usp=sharing)
+  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1JOflsdETk4vYPXbyA4n3OCYCyDaqIzhl/view?usp=sharing)
+  - [Summary of Benefits and Coverage (CA residents only)](https://drive.google.com/file/d/1YjJXsBMCaWTmgyV6-j6rUW4fMVgsJke2/view?usp=sharing)
+  - [Plan Summary](https://drive.google.com/file/d/1e9ZyHiSBVaClkwLvUD6-z0XYK_Wr-U72/view?usp=sharing)
+  - [Plan Summary (CA residents only)](https://drive.google.com/file/d/1kyuNDecETI1q56sO8Eu3eSu5-r5JQqF7/view?usp=sharing)
+- UnitedHealthcare HSA 1600
+  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1GmqBplSUYO8G7jTWOz0-s6jpcXz9urpc/view?usp=sharing)
+  - [Summary of Benefits and Coverage (CA residents only)](https://drive.google.com/file/d/1KXhmkW4wM3SlQ2oETVHtAFr6IHHidQtC/view?usp=sharing)
+  - [Plan Summary](https://drive.google.com/file/d/1BxY6Q5wOBACVDbkiYChXeP_1LhUf7m97/view?usp=sharing)
+  - [Plan Summary (CA residents only)](https://drive.google.com/file/d/19o8HwwUQIcLPsAvuC9EZlI4OF2civvdA/view?usp=sharing)
+- Kaiser HMO (CA based teammates only)
+  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1IZI6NY7wbJ-dDWz4ZLWStQEEE5Whe6IQ/view?usp=sharing)
+  - [Plan Summary](https://drive.google.com/file/d/1_DjR0kwVP2xFl3rNfxEl-FWcA_cjQlod/view?usp=sharing)
+- Kaiser HSA 3200 (CA based teammates only)
+  - [Summary of Benefits and Coverage](https://drive.google.com/file/d/1UGO6ADpakLsZ19yltgDJpjXaRfHnLDCq/view?usp=sharing)
+  - [Plan Summary](https://drive.google.com/file/d/1Q5ols_h3E-vXR0DrMby5RCbMSYnbohgp/view?usp=sharing)
 
-Dental:
+Dental: Cigna DPPO
 
-- [Cigna DPPO](https://drive.google.com/file/d/1o61HSqUV8vBbpldFE4fLkcxTQyjE9Mi9/view?usp=sharing)
+- [Summary of Benefits and Coverage](https://drive.google.com/file/d/1VgyRg314qhd6hCyDcNrcp_YYde4M1_F5/view?usp=sharing)
+- [Plan Summary](https://drive.google.com/file/d/10QpBtyZ-7-NYahqnlLm8QpMQ_dH69c0E/view?usp=sharing)
 
-Vision:
+Vision: Equitable vision
 
-- [Equitable Vision](https://drive.google.com/file/d/1OokiJfH5WSMAhaC8LEYvLrWctHxgfFmL/view?usp=sharing)
+- [Plan Summary](https://drive.google.com/file/d/10QpBtyZ-7-NYahqnlLm8QpMQ_dH69c0E/view?usp=sharing)
 
-Life:
+Life: Equitable Life Insurance
 
-- [Equitable Life Insurance](https://drive.google.com/file/d/1Hv_2mCAN3YX8FNKd1-U3T_6ag8KQaJ9I/view?usp=sharing)
+- [Plan Summary](https://drive.google.com/file/d/1DQaBwcQ2vp9_sdSoSJLwbGwjA-bwOf9W/view?usp=sharing)
 
-HSA, FSA, and Dependent Care FSA:
+**HSA, FSA, and Dependent Care FSA:**
 
-- HSA, FSA and Dependent Care FSA accounts are administered by [Rippling](<https://app.rippling.com/login?next=%2fdashboard](https://app.rippling.com/login?next=%2Fdashboard)>).
+- HSA, FSA and Dependent Care FSA accounts are administered by [Rippling](<https://app.rippling.com/login?next=%2fdashboard%5D(https://app.rippling.com/login?next=%2Fdashboard)>).
 - [HSA Overview and Eligibility](https://help.rippling.com/s/topic/0TO4o000000HsnmGAC/hsa-overview)
 - [FSA Overview and Eligibility](https://help.rippling.com/s/article/360056730253)
 
@@ -118,9 +136,11 @@ You or you dependents can reach the advocate team three ways:
 2. Email: [sourcegraph@help.sequoia.com](mailto:sourcegraph@help.sequoia.com)
 3. Phone: 1-844-891-3044
 
+If you need your password reset for the Sequoia website or app, please attempt to login with your **work email** and request "forgot password". If you run into issues please reach out in the [#ask-people-team channel](https://join.slack.com/share/enQtNTczMjA1Njk3NzU0My0yNDI4NGM1MTc3MDIwNzk0YjMzYmM3NmJlZTU0OGExZDQ0MDRkY2ExZDVkNWYyNzZmNDVhNWRjODAyYTdiMDdm?cdn_fallback=1).
+
 ## Digital ID Cards:
 
-All digital insurance cards are located in Sequoia, which is our benefits broker. All health insurance cards and coverage questions are handled by Sequoia. You will receive physical medical cards, but dental and vision will only be available through the Sequoia app.
+All digital insurance cards are located in Sequoia, which is our benefits broker. All health insurance cards and coverage questions are handled by Sequoia. You will receive physical medical cards, but dental will only be available through the Sequoia app. Vision cards are not provided, but your insurance can be verified with your vision provider with your name, SSN, and stating your plan is with Equitable Vision.
 
 US-based Teammates can access virtual insurance member IDs in the Sequoia mobile app within 7-10 business days after you complete enrollment. You will receive your physical insurance member ID cards via mail 2-4 weeks after you complete enrollment.
 
@@ -306,7 +326,8 @@ Non-US teammates:
 
 US teammates:
 
-- All virtual insurance cards are located in the Sequoia app ([Apple](https://apps.apple.com/us/app/sequoia-mobile/id1185900896), [Google](https://play.google.com/store/apps/details?id=com.sequoia.android&pli=1)). You will receive physical medical card(s) but dental and vision will only be available through the app.
+- Medical and Dental virtual insurance cards are located in the Sequoia app ([Apple](https://apps.apple.com/us/app/sequoia-mobile/id1185900896), [Google](https://play.google.com/store/apps/details?id=com.sequoia.android&pli=1)). You will receive physical medical card(s) for medical only.
+- For Vision, we do not have physical or virtual cards. Your provider can verify insurance with your name, SSN, and stating your vision insurance is Equitable.
 
 Non-US teammates:
 
@@ -329,3 +350,39 @@ US teammates:
 Non-US teammates:
 
 - Not appllicable.
+
+## **Notices** (Sent Oct 2023)
+
+### **HIPAA Notice of Special Enrollment Rights**
+
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) provides employees additional opportunities to enroll in a group health plan if they experience a loss of other coverage or certain life events. This Notice will provide additional information about your Special Enrollment Rights, and it is also located in the Plan’s wrap Summary Plan Description document.
+
+### **HIPAA Notice of Privacy Practices**
+
+The HIPAA Privacy Rule gives individuals a fundamental right to be informed of the privacy practices of their health plans and of most of their health care providers, as well as to be informed of their privacy rights with respect to their personal health information. Health plans and covered health care providers are required to develop and distribute a notice that provides a clear explanation of these rights and practices. The Privacy Rule provides that an individual has a right to adequate notice of how a covered entity may use and disclose protected health information about the individual, as well as his or her rights, and the covered entity’s obligations with respect to that information. This notice is also located in the Plan’s wrap Summary Plan Description document.
+
+#### **Women’s Health and Cancer Rights Act**
+
+The Women’s Health and Cancer Rights Act (WHCRA) provides that group health plans and health insurance issuers that provide coverage for medical and surgical benefits with respect to mastectomies must also cover certain post-mastectomy benefits, including reconstructive surgery and the treatment of complications (such as lymphedema). The Notice will provide additional information and is also located in the Plan’s wrap Summary Plan Description document.
+
+#### **Newborn’s and Mothers’ Health Protection Act of 1996**
+
+The Newborns' Act was signed into law on September 26, 1996 and includes important protections for mothers and their newborn children regarding the length of the hospital stay following childbirth. The Notice will provide additional information and is also located in the Plan’s wrap Summary Plan Description document.
+
+#### **Children’s Health Insurance Program (CHIP) Notice**
+
+The model CHIP notice lists the states in which CHIP premium assistance is available.
+
+#### **Medicare Part D Notice**
+
+The Medicare Prescription Drug Improvement and Modernization Act of 2003 requires group health plans that include prescription drug coverage to disclose annually to individuals eligible for Part D whether the plan’s coverage is “creditable,” meaning that the group health plan coverage is at a minimum equivalent to Part D coverage. Please note that Sourcegraph’s plans are creditable.
+
+Individuals who do not enroll in Part D coverage when first eligible, and those that go 63 days or longer without creditable coverage, will have to pay higher premiums if they subsequently enroll in a Part D plan. You will need this notice to confirm your status when enrolling for Medicare Part D. Please note that you are responsible for providing this notice to your eligible dependents.
+
+#### **No Surprises Act Notice**
+
+This important notice explains your rights and protections against surprise medical billing and balance billing in certain circumstances.
+
+### **People Team Resouces**
+
+[Benefits ownership sheet](https://docs.google.com/spreadsheets/d/1sUgD2ZjDCwAOCC7ABjrwzmdUWDE7v8AvOAS_XSvC958/edit?usp=sharing)

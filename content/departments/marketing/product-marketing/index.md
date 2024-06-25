@@ -30,69 +30,17 @@
 - Competitive intelligence
 - Customer proof points
 
-See this [doc](https://docs.google.com/document/d/1lnqZHXMnNQj0d1vCWmg3u4zz_toySthUMvOxZnCtdw0/edit#bookmark=id.e0jz6ct4ghl) for details.
-
 **Partner with GTM teams:** We partner with sales and CE to support pipeline, expansion, and ARR.
 
-- Core product/customer marketing activities: Continue driving core PMM/CM activities, including CAB, Analyst Relations, competitive intelligence, etc.
+- Core product marketing activities: Continue driving core PMM/CM activities, including CAB, Analyst Relations, competitive intelligence, etc.
 - Sales/CE: Partner with sales and CE to support pipeline and ARR.
 
 ## Team roles and responsibilities
 
-{{generator:reporting_structure.director_product_marketing}}
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-<strong>Eng/Product</strong>
-   </td>
-   <td><strong>GTM</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Alex</strong>
-   </td>
-   <td>
-<ul>
-<li>Primary: Cody for Devs
-
-<li>Cross-product: Strategic
-<li>Emerging products
-<li>Release comms
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-<li>Growth marketing
-<li>Demo
-<li>Developer competitive intel
-</li>
-</ul>
-   </td>
-  </tr>
-
-  <tr>
-   <td><strong>Eric</strong>
-   </td>
-   <td>
-<ul>
-<li>Primary: Cody for Enterprise
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-<li>Sales support
-<li>Customer-facing product roadmap
-<li>Enterprise competitive intel
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
+|                      | Alex Isken | Kelvin Yap      |
+| -------------------- | ---------- | --------------- |
+| Audience focus       | Developers | Decision makers |
+| GTM motion alignment | Self-serve | Sales-led       |
 
 ## Working with other teams
 
@@ -104,16 +52,24 @@ See this [doc](https://docs.google.com/document/d/1lnqZHXMnNQj0d1vCWmg3u4zz_toyS
 
 ## Product launch templates and resources
 
-- [Product marketing brief](https://docs.google.com/document/d/1i-n7WKQrAMVAdCaGAX0shW1DbJ70cnnGkkb6yReOOPA/edit#): Messaging and positioning doc for new products/features.
+- [Product marketing brief template](https://docs.google.com/document/d/1i-n7WKQrAMVAdCaGAX0shW1DbJ70cnnGkkb6yReOOPA/edit#): Messaging and positioning doc for new products/features.
 - [Naming guide](naming_guide.md): Best practices/process for naming new products/features.
-- [Marketing launch tiers](marketing_launch_tiers.md): Guidance for establishing the launch tier for new products/features.
+- [Marketing launch tiers](marketing_launch_tiers.md): Guidance for establishing the launch tier for new products/features and determining launch activities.
+- [GTM launch activity list](launch-activity-list.md): A comprehensive list of GTM activities to consider for launches and who to collaborate with to execute them.
 
 ## Resources
 
 - [Approved assets](https://drive.google.com/drive/folders/15lb62hLLYM-mKEOrlg32bmSgIhNcvKFh?usp=sharing): GIFs, videos, and images that are externally shareable
-- [GTM Hub (go-to-market resources)](gtm_hub.md)
-- [Product marketing hierarchy](product_marketing_hierarchy.md)
-- [Batch Changes positioning](../../engineering/teams/batch-changes/go-to-market/index.md)
-- [Release post process](release_post_process.md)
-- [Customer marketing](customer_marketing.md)
-- [Product Marketing & Product Manager collaboration](../../engineering/product/process/gtm/pm_and_pmm.md)
+- [GTM Hub](gtm_hub.md): Go-to-market and positioning resources per our products
+- [Batch Changes positioning](../../engineering/teams/code-search/batch-changes/go-to-market/index.md)
+
+## Customer Advisory Board
+
+Check out these resources to learn more about the program and takeaways from past meetings:
+
+- [Customer Advisory Board overview](https://docs.google.com/document/d/1zj7cqhRYvkeTOPLrh4FqF9VoEwZjA9aFPBffGd2EF9w/edit)
+- [CAB member roster](https://docs.google.com/document/d/1o19rw1D4Ip6u5zf2qXTBlroB84m2eJF-nU2QIq5Wleg/edit#)
+- [2021-06-22 meeting resources](https://drive.google.com/drive/folders/15fZ4AqzqYkmz_dEOZGvcUhUehBg2DcDH?usp=sharing): This folder contains the meeting agenda, notes, and takeaways from the 2021-06-22 CAB meeting.
+- [2021-10-19 meeting resources](https://drive.google.com/drive/folders/1aiRsbhaBCUlbTomFza9_kFCWZqQoK6vs?usp=sharing): This folder contains the meeting agenda, notes, and takeaways from the 2021-10-19 CAB meeting.
+- [2022-04-21 meeting resources](https://drive.google.com/drive/folders/17PLeCDrZHiKJvf3P5RjnrC8OdA4j8Ur4?usp=sharing): This folder contains the meeting agenda, notes, and takeaways from the 2022-04-21 CAB meeting.
+- [2022-09-21 meeting resources](https://drive.google.com/drive/folders/1g_yFpoD7AMywEf9s4RS_t0okN9FrrLvU?usp=sharing): This folder contains the meeting agenda, notes, and takeaways from the 2022-09-21 CAB meeting.

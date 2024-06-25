@@ -40,7 +40,7 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 
 ### Who to go to
 
-- Emergency
+- [Emergency Support](emergency-support.md)
   - In case of emergency, the VP People & Talent and the Director, People are available 24/7 via their cell phone number which is listed in their Slack profile.
 - People support
   - [Who is my People Partner?](teamalignment.md)
@@ -52,8 +52,9 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 
 ### Onboarding as a new hire
 
-- [The onboarding process](../../company-info-and-process/onboarding/index.md)
+- [The onboarding process](people-ops/process/onboarding.md)
 - [How to set up BambooHR](resources-for-new-hires/new-teammate-setup.md#bamboohr)
+- [Resources for new hires](resources-for-new-hires/index.md)
 - [I9 verification](people-ops/tools/internal-onboarding.md#onboarding)
 - [Background Checks](background-check-policy.md)
 - [Onboarding swag](people-ops/tools/internal-swag.md#new-hire-gifting)
@@ -61,8 +62,9 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 - [Buddy Program](buddy-program.md)
 - [Onboarding Mentors](onboarding-mentor.md)
 - [Onboarding Feedback Milestones](onboarding-feedback-milestones.md)
+- [Tools we use](../../company-info-and-process/working-at-sourcegraph/teammate-development/training/tools/index.md)
 - [Glossary of Terms](../../company-info-and-process/onboarding/glossary.md)
-- [Intro to Git]
+- [Intro to Git](git-intro.md)
 - [Managing remote work](../../company-info-and-process/remote/index.md)
 - [Working asynchronously](../../company-info-and-process/communication/asynchronous-communication.md)
 
@@ -112,13 +114,14 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
   - [Making benefits changes](people-ops/tools/people-ops-faqs.md#q-how-do-i-make-changes-to-my-insurance-in-the-case-of-a-qualifying-life-event-qle)
 - [Parental leave](../../benefits-pay-perks/benefits-perks/parental-leave.md)
 - [Leave of Absence](../../benefits-pay-perks/benefits-perks/leave-of-absence.md)
-- [Mental health resources](../../benefits-pay-perks/benefits-perks/mental-health/index.md)
+- [Mental health resources](total-rewards/mental-health.md)
 
 ### How we measure culture
 
 - Types of Lattice surveys
   - [Engagement Surveys](people-ops/process/teammate-sentiment/engagement-survey.md)
   - [Pulse Surveys](people-ops/process/teammate-sentiment/pulse-survey.md)
+  - [Culture Meetings](people-ops/process/teammate-sentiment/culture-meetings.md)
 - [How to access survey results](people-ops/process/teammate-sentiment/pulse-survey.md#where-can-i-see-survey-results)
 - [How the People Team respondes to survey results and take action](people-ops/process/teammate-sentiment/pulse-survey.md#how-do-we-respond-to-pulse-survey-results-and-take-action)
 
@@ -128,10 +131,15 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 - [Mortgage verification](people-ops/process/employment_verification.md#when-should-you-use-truework)
 - [Visa process](people-ops/tools/people-ops-faqs.md#q-i-need-a-letter-from-my-employer-to-obtain-a-visa-how-do-i-request-that)
 - [Sponsorship policy](people-ops/process/how-we-engage-talent-outside-the-us/#sts=Visa%20sponsorship%20and%20immigration%20assistance)
+- [Nomad life](../../benefits-pay-perks/benefits-perks/nomad-life.md)
 
 ### Email Changes
 
 - [Requesting an email change](email-changes.md)
+
+### Name Changes
+
+- [Requesting a name change](people-ops/process/name-changes.md)
 
 ### Verifications
 
@@ -146,6 +154,7 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 ### Reporting violations
 
 - [Anti-harassment](../../company-info-and-process/communication/code_of_conduct.md#respect-each-other)
+- [Anti-corruption](people-ops/process/anti-corruption.md)
 - [Code of business conduct & ethics](../../company-info-and-process/communication/code_of_conduct.md)
 - [How to raise a cofidential issue](../../company-info-and-process/communication/code_of_conduct.md#raising-concerns)
 
@@ -178,11 +187,15 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 - [Involuntary seperations](people-ops/process/leaving.md)
 - [Severance information & getting paid](people-ops/process/leaving.md)
 - [Cobra](people-ops/process/leaving.md)
+- [Exit survey/meeting](people-ops/process/teammate-sentiment/exit-survey.md)
 - [Equity FAQs](../../benefits-pay-perks/pay-expenses/compensation/equity-faq.md#are-my-vested-stock-options-impacted-if-i-leave-sourcegraph)
 
 ### Misc
 
 - [Our policy on having jobs outside of Sourcegraph](outside-employment.md)
+- [Personal pronouns](../../company-info-and-process/personal-pronouns.md)
+- [Gender diversity allies cohort](../../company-info-and-process/gender-diversity.md)
+- [Holidays we celebrate](../../company-info-and-process/working-at-sourcegraph/holidays.md)
 
 ## RESOURCES FOR MANAGERS
 
@@ -198,6 +211,7 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 
 ### Hiring
 
+- [Hiring process](resources-for-managers.md#hiring-process)
 - [How to make a change to my headcount plan](https://forms.gle/6dQmnRjsXDEjB4y7A)
   - [How to change a role's start date (pulling a role forward or pushing it back in the board-approved headcount plan)](https://forms.gle/6dQmnRjsXDEjB4y7A)
   - [How to add a net-new role to the headcount plan (not already approved by the board)](https://forms.gle/6dQmnRjsXDEjB4y7A)
@@ -230,6 +244,7 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
   - [The offer summary](talent/process/extending_an_offer.md#offer-summary-call)
   - [The offer letter](talent/process/extending_an_offer.md)
 - [How to hire a teammate into a new role](../../company-info-and-process/working-at-sourcegraph/switching-teams.md#switching-teams)
+- [Talent acquisition metrics](talent/process/talent_metrics.md)
 
 ### Onboarding your new hire
 
@@ -237,9 +252,10 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 
 ### Teammate development & mobility
 
+- [Managing people](resources-for-managers.md#managing-people)
 - [Continuous feedback & coaching](../../company-info-and-process/working-at-sourcegraph/teammate-development/index.md)
   - [Guide to an effective 1:1](../../company-info-and-process/working-at-sourcegraph/teammate-development/index.md)
-- [Semi-annual performance review process](people-ops/process/teammate-sentiment/impact-reviews/index.md)
+- [annual performance review process](people-ops/process/teammate-sentiment/impact-reviews/index.md)
   - [When can you get a promotion](people-ops/process/teammate-sentiment/impact-reviews/index.md#how-to-get-a-promotion)
   - [Department specific career frameworks](../../company-info-and-process/working-at-sourcegraph/career-frameworks.md)
     - [Our level guide](../../benefits-pay-perks/pay-expenses/compensation/leveling-guide.md)
@@ -298,11 +314,14 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 
 ### Onboarding
 
+- [Onboarding - People Ops Process](people-ops/tools/internal-onboarding.md)
 - Types of employment
-  - US-based Teammates(COMING SOON)
+  - [US-based Teammates](people-ops/tools/internal-onboarding.md)
   - [Contractors](people-ops/process/how-we-engage-talent-outside-the-us/index.md#contractors)
   - [PEO](people-ops/tools/peo.md)
 - [New Hire Videos](new-hire-videos.md)
+- [Compliance training - People Ops process](people-ops/tools/internal-compliance.md)
+- [BambooHR - People Ops process](people-ops/tools/bamboohr.md)
 
 ### Legal support
 
@@ -313,12 +332,14 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 - [Merit](people-ops/process/teammate-sentiment/impact-reviews/index.md#merit-philosophy)
 - [Promotion](people-ops/process/teammate-sentiment/impact-reviews/index.md#promotion-philosophy)
 - [Compensation](../../benefits-pay-perks/pay-expenses/compensation/index.md)
+- [People Partner <> Manager 1:1 Template](https://docs.google.com/document/d/1cGUt1o3En0LQqhFISq7AT6-t-OANTvOZXwaXcFQyLLg/edit)
 
 ### Role / comp / equity change process
 
-- How to process an equity increase (COMING SOON)
-- How to process a compensation increase (COMING SOON)
-  - Informing PEO re: comp increases (COMING SOON)
+- [How to process an equity increase](people-ops/process/compensation-and-leveling/compensation-role-changes.md#requesting-a-compensation-change-equity-only)
+- Quarterly equity grant [approval process](people-ops/process/compensation-and-leveling/equity-internal.md#board-approval-process) and [internal documentation](https://docs.google.com/document/d/1W_rpuSFhem1Mf1uoKDt-HrUBU-fhdEkGssWqx4qIIQw/edit#heading=h.r7q2r0unofbt)
+- [How to process a compensation increase](people-ops/process/compensation-and-leveling/compensation-role-changes.md#requesting-a-compensation-change-cash-only)
+  - [Informing PEO re: comp increases](people-ops/process/how-we-engage-talent-outside-the-us/deel.md#how-often-does-the-exchange-rate-get-updated-for-compensation)
 - Template letters:
   - [Promotion template](https://docs.google.com/document/d/1e6vBGpAva2n5KW75-JET66zMUi9a2WmIm__GALO_LNI/edit)
   - [Equity spot bonus template](https://docs.google.com/document/d/1mIgxiE0I9rYlhkA4-jMDFVoLpqJ-oLdm6I0qOWMxU4M/edit)
@@ -333,6 +354,12 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 - [Leaving Sourcegraph](people-ops/process/leaving.md)
   - [Exit interviews](people-ops/process/leaving.md#exit-interviews)
   - [Offboarding process](people-ops/tools/internal-offboarding.md#offboarding-checklist)
+- [Employment verification - People Ops process](people-ops/tools/internal-employment-verification.md)
+- [Workplace postings](Required-workplace-postings.md)
+
+### Offboarding
+
+- [Offboarding - People Ops process](people-ops/tools/internal-offboarding.md)
 
 ### Teammate swag
 
@@ -418,82 +445,41 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
 - [Internship Program](talent/internship/index.md)
 - [Internship Recruiting and Offer Processes](talent/internship/internship-recruiting-and-offers.md#internship-recruiting-and-offer-processes)
 
-# The Talent & People Team
+### Misc
+
+- [Resources for Hiring Managers](../index.md#resources-for-hiring_managers)
+- [Resources for Recruiting Ops](talent/tools/resources_for_recruiting_operations.md)
+
+# The People & Talent Team
 
 [Click here](teamalignment.md) to see Talent Team alignment with each department
 
 <section>
-  <div class="row" style="display: flex">
-    <div class="col" style="flex: 1">
+  <div class="row" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+    <!-- Row 1 -->
+    <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
       <div>
         <div style="text-align: center">
           <a href="../../team/index.md#carly-jones" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/PeopleOps-Avatar/carlyAvatar.png"
-            alt="Picture of Carly Jones"
-            style="background: transparent; width: 128px"
+            <img
+              src="https://storage.googleapis.com/sourcegraph-assets/CarlyJones.png"
+              alt="Picture of Carly Jones"
+              style="background: transparent; width: 128px"
             />
           </a>
         </div>
         <div style="text-align: center">Carly Jones</div>
-        <div style="text-align: center; font-size: 12px">VP of Talent & People</div>
+        <div style="text-align: center; font-size: 12px">VP, People & Talent</div>
       </div>
     </div>
-    <div class="col" style="flex: 1">
-      <div>
-        <div style="text-align: center">
-          <a href="../../team/index.md#devon-coords-sheher" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/Talent%20Team/Devon-Bitmoji.jpg"
-            alt="Picture of Devon Coords"
-            style="background: transparent; width: 128px"
-            />
-          </a>
-        </div>
-        <div style="text-align: center">Devon Coords</div>
-        <div style="text-align: center; font-size: 12px">Director, Technical Recruiting</div>
-      </div>
-    </div>
-    <div class="col" style="flex: 1">
-      <div>
-        <div style="text-align: center">
-          <a href="../../team/index.md#kemper-hamilton-sheher" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/Talent%20Team/KemperBitmoji.png"
-            alt="Picture of Kemper Hamilton"
-            style="background: transparent; width: 128px"
-            />
-          </a>
-        </div>
-        <div style="text-align: center">Kemper Hamilton</div>
-        <div style="text-align: center; font-size: 12px">People-Ops Generalist</div>
-      </div>
-    </div>
-  </div>
-  <div class="row" style="display: flex">
-    <div class="col" style="flex: 1">
-      <div>
-        <div style="text-align: center">
-          <a href="../../team/index.md#kelsey-nagel-sheher" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/Talent%20Team/Kelsey-%20Bitmoji.jpg"
-            alt="Picture of Kelsey Nagel"
-            style="background: transparent; width: 128px"
-            />
-          </a>
-        </div>
-        <div style="text-align: center">Kelsey Nagel</div>
-        <div style="text-align: center; font-size: 12px">Corporate Recruiter</div>
-      </div>
-    </div>
-    <div class="col" style="flex: 1">
+    <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
       <div>
         <div style="text-align: center">
           <a href="../../team/index.md#marija-petrovic-sheher" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/Talent%20Team/Marija-Bitmoji.png"
-            alt="Picture of Marija Petrovic"
-            style="background: transparent; width: 128px"
+            <img
+              src="https://storage.googleapis.com/sourcegraph-assets/Marija.png"
+              alt="Picture of Marija Petrovic"
+              style="background: transparent; width: 128px"
             />
           </a>
         </div>
@@ -501,35 +487,98 @@ In case of emergency, the Head of People & Talent is available 24/7 via their ce
         <div style="text-align: center; font-size: 12px">Director, Recruiting and People-Ops</div>
       </div>
     </div>
-    <div class="col" style="flex: 1">
+    <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
       <div>
         <div style="text-align: center">
-          <a href="../../team/index.md#grace-bohl-sheher" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/Talent%20Team/Grace-%20Bitmoji.jpg"
-            alt="Picture of Grace Bohl"
-            style="background: transparent; width: 128px"
+          <a href="../../team/index.md#devon-coords-sheher" target="_blank" rel="noopener">
+            <img
+              src="https://storage.googleapis.com/sourcegraph-assets/DevonCoords.png"
+              alt="Picture of Devon Coords"
+              style="background: transparent; width: 128px"
             />
           </a>
         </div>
-        <div style="text-align: center">Grace Bohl</div>
-        <div style="text-align: center; font-size: 12px">Sales Recruiter</div>
+        <div style="text-align: center">Devon Coords</div>
+        <div style="text-align: center; font-size: 12px">Director, Technical Recruiting</div>
       </div>
     </div>
-    <div class="col" style="flex: 1">
+    <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
       <div>
         <div style="text-align: center">
-          <a href="../../team/index.md#trevor-houghton-hehim" target="_blank" rel="noopener">
-          <img
-            src="https://storage.googleapis.com/sourcegraph-assets/handbook/Talent%20Team/Trevor-%20Bitmoji.jpg"
-            alt="Picture of Trevor Houghton"
-            style="background: transparent; width: 128px"
+          <a href="../../team/index.md#lauren-ross-sheher" target="_blank" rel="noopener">
+            <img
+              src="https://storage.googleapis.com/sourcegraph-assets/LaurenRoss.jpg"
+              alt="Picture of Lauren Ross"
+              style="background: transparent; width: 128px"
             />
           </a>
         </div>
-        <div style="text-align: center">Trevor Houghton</div>
-        <div style="text-align: center; font-size: 12px">Recruiting Operations Specialist</div>
+        <div style="text-align: center">Lauren Ross</div>
+        <div style="text-align: center; font-size: 12px">Senior People Partner</div>
       </div>
     </div>
-  </div>
+    <!-- Row 2 -->
+    <div class="row" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+      <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
+        <div>
+          <div style="text-align: center">
+            <a href="../../team/index.md#michal-sennett-sheher" target="_blank" rel="noopener">
+              <img
+                src="https://storage.googleapis.com/sourcegraph-assets/MichalSennett.png"
+                alt="Picture of Michal Sennett"
+                style="background: transparent; width: 128px"
+              />
+            </a>
+          </div>
+          <div style="text-align: center">Michal Sennett</div>
+          <div style="text-align: center; font-size: 12px">Executive Business Partner</div>
+        </div>
+      </div>
+      <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
+        <div>
+          <div style="text-align: center">
+            <a href="../../team/index.md#kemper-hamilton-sheher" target="_blank" rel="noopener">
+              <img
+                src="https://storage.googleapis.com/sourcegraph-assets/KemperHamilton.png"
+                alt="Picture of Kemper Hamilton"
+                style="background: transparent; width: 128px"
+              />
+            </a>
+          </div>
+          <div style="text-align: center">Kemper Hamilton</div>
+          <div style="text-align: center; font-size: 12px">People-Ops Generalist</div>
+        </div>
+      </div>
+      <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
+        <div>
+          <div style="text-align: center">
+            <a href="../../team/index.md#kelsey-nagel-sheher" target="_blank" rel="noopener">
+              <img
+                src="https://storage.googleapis.com/sourcegraph-assets/KelseyNagel.png"
+                alt="Picture of Kelsey Nagel"
+                style="background: transparent; width: 128px"
+              />
+            </a>
+          </div>
+          <div style="text-align: center">Kelsey Nagel</div>
+          <div style="text-align: center; font-size: 12px">Corporate Recruiter</div>
+        </div>
+      </div>
+      <div class="col" style="flex: 1; max-width: 20%; margin: 8px;">
+        <div>
+          <div style="text-align: center">
+            <a href="../../team/index.md#trevor-houghton-hehim" target="_blank" rel="noopener">
+              <img
+                src="https://storage.googleapis.com/sourcegraph-assets/TrevorHoughton.png"
+                alt="Picture of Trevor Houghton"
+                style="background: transparent; width: 128px"
+              />
+            </a>
+          </div>
+          <div style="text-align: center">Trevor Houghton</div>
+          <div style="text-align: center; font-size: 12px">Recruiting Operations Specialist</div>
+        </div>
+      </div>
+    </div> <!-- Close the second row here -->
+  </div> <!-- Close the first row here -->
 </section>

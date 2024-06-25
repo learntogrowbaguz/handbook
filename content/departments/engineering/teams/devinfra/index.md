@@ -52,6 +52,19 @@ Find out more about the Developer Infrastructure team's mission, vision, and str
 
 Also see [org-wide areas of ownership](../../dev/process/engineering_ownership.md#developer-experience) and our [team processes](processes.md).
 
+## Support levels
+
+The team operate across a broad range of responsibilities, so it's best to reason in terms of how much a given issue affects others.
+The below list gives an overview of the commonly encountered scenarios, but isn't meant to be exhaustive.
+
+- _P0_: Issues that are affecting at least a third of the engineering team and that have no immediate workaround.
+- _P0_: Issues the CI where a given build is affecting other builds, i.e breaking isolation.
+- _P0_: Issues caused by Bazel, affecting releases (broken release or preventing it to be created).
+- _P1_: Issues with CI or local environment that are threating another team objectives.
+- _P2_: Issues causing intermittent failures in CI.
+- _P3_: Default priorities for support requests when created.
+- _P4_: Issues that can wait, usually QoL improvements.
+
 ## Contact
 
 For **questions** and **discussions** about anything related to developer experience, post a message in the [#discuss-dev-infra channel](https://sourcegraph.slack.com/archives/C01N83PS4TU).
@@ -69,7 +82,7 @@ You can also interact with us on **GitHub**:
 - We also monitor and track issues with the [dx](https://github.com/sourcegraph/sourcegraph/labels/dx) label in our [GitHub project](processes.md#devinfra-project).
 - We have a public [GitHub Discussions board](https://github.com/sourcegraph/sourcegraph/discussions/categories/developer-experience). You can also create a discussion directly on our board with the command `sg feedback`
 
-> NOTE: When referring to this team, prefer to use _Developer Infrastructure_ or _DevInfra_ - only use _developer experience_ or _dx_ when referring to developer experience in general.
+> [!NOTE] When referring to this team, prefer to use _Developer Infrastructure_ or _DevInfra_ - only use _developer experience_ or _dx_ when referring to developer experience in general.
 
 ## Principles
 

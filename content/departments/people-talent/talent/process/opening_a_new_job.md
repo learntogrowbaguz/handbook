@@ -35,9 +35,17 @@ The Hiring Manager fills out [this intake form](https://docs.google.com/forms/d/
 
 - If you need help completing this form or getting a status update on your headcount request, please get in touch with your [recruiting partner](../../teamalignment.md) so they can help move this through the process.
 
-### Step 2: exec approval
+### Step 2: finance and exec approval
 
-The exec team must agree that this is a business-critical role before the Finance team can approve it for hire. This happens synchronously during exec team meetings, and a decision will be made at this meeting by the headcount committee. Alternatively, the Hiring Manager can request this approval be completed async by the exec team. The Hiring Manager will continue onto next steps if approved. The headcount committee will inform the requester that their request is denied.
+Finance approval is required for all new roles, whether backfills or net new.
+
+If this role fits in the latest plan/budget, then it will likely be quickly approved. Finance maintains discretion, however, to ask questions and make a decision based on changes in business strategy and prioritization, department metrics or ratios, company and department performance, or other reasons. SLA: 3 days.
+
+If this role exceeds or changes the latest plan/budget, then additional justification is required. The executive for the team must re-create their ideal org chart with support from People and Finance to set prioritization and timing of all desired roles. If the Hiring Manager or executive can find a place to pull budget from elsewhere in the company (with the respective department executive's approval), then People and Finance team approvals are required, but the decision will be easier and quicker. SLA: 7 days.
+
+If the Hiring Manager or executive can't find a place to pull budget from, then People and Finance approval is required, given company-wide strategy and prioritization, potential impact, and company performance. The exec team will be notified about the additional role, spending associated with it, and any potential offseting cost cuts that finance will be applying (e.g. to travel or other company-wide line items), and they can propose alternatives. SLA: 14 days.
+
+The Hiring Manager will continue onto next steps if approved. The headcount committee will inform the requester if their request is denied.
 
 ### Step 3: create a job description & interview plan
 
@@ -61,7 +69,7 @@ If the role is approved, the Hiring Manager creates a job description & intervie
 
 The Recruiter schedules a 30-minute intake meeting with the Hiring Manager and Recruiting Operations Specialist to kick off the search and review the responses to the intake form. The intake meeting is intended for the three of them to get on the same page about job requirements, the ideal candidate, and the proposed interview process. This is a necessary step to ensure initial alignment and set our search up for success.
 
-Every intake meeting should be recorded via BrightHire by including #brighthire anywhere in the body of the invite when scheduling the meeting, then by clicking the green "Interview with BrightHire" option at the top of the invite when joining the meeting.
+Every intake meeting should be recorded via BrightHire by inviting [intake@brighthire.ai](https://help.brighthire.ai/en/articles/8639721-use-brighthire-for-intake-debriefs) and/or including #brighthire anywhere in the body of the invite when scheduling the meeting, then by clicking the green "Interview with BrightHire" option at the top of the invite when joining the meeting.
 
 Example topics to cover during intake meeting:
 
@@ -82,12 +90,31 @@ Example topics to cover during intake meeting:
 - Job description
 - Potential qualifying questions that we can utilize on our job application to [automatically reject](https://support.greenhouse.io/hc/en-us/articles/360000653472-Auto-reject) inbound applicants that don't meet our minimum requirements
 
+Prior to the intake call, the Recruiter sends the Hiring Manager the following message to ensure everyone is prepared for the call:
+
+Hi `hiring manager`! As we prepare for our intake call scheduled for `Date & Time`, I wanted to provide you with a list of topics we will be covering. This will help us utilize our 30 minutes efficiently and ensure that we have all the necessary information to kick off the search successfully.
+Prior to our call, please fill out this form. In addition to reviewing these answers, here are some additional questions we will discuss:
+
+- (If this is a backfill) What wasn’t working with **\_\_**?
+- Walk me through the reason for this position / why this role is important on the team / how does this role impact the business overall?
+- What will this person be working on day to day?
+- Short-term goals: where can this person make an immediate impact? What are some projects they’ll be working on?
+- Walk me through your ideal profile & background. When you look at a profile/resume, what do you want to see & will impress you?
+- Top 3 things you’re looking for?
+- Start-up vs large company experience?
+- Ideal companies?
+
+Lastly, we will finalize the interview process and confirm who will be on the interview panel. If you have any questions or need clarification on any of the points above, please let me know.
+Thank you for your prep work ahead of time. Looking forward to kicking this role off!
+
 ### Step 2: Greenhouse
 
 The Recruiter opens the job in Greenhouse by clicking "Add" at the top, then "Create a Job":
 
 - Copy the existing "Template" job.
 - Input all required fields into "Job Info", including the correct cost center, division, and Radford code. The compensation can be confirmed in Assemble. You can read more on how to view our internal compensation bands [here](../../../../benefits-pay-perks/pay-expenses/compensation/index.md#how-to-view-our-internal-compensation-bands.md).
+  - **Note:** Please include the job level (e.g. M3, IC4, etc.) in the title of the internal job name that appears in Greenhouse.
+    - Example: Product Designer (IC4)
   - **Note:** Please put the top of band for the finance budget.
   - **Note:** The cost center and division can be found on the [How to open a new job responses](https://docs.google.com/spreadsheets/d/12fhIGjoJMtV27BEijThrW_ZSkNW62Xl8bkFZdkDa-lA/edit#gid=1720300630). Please reach out to #team-people-and-talent if you are unsure of how to fill them in.
 - Input all required fields for the "Hiring team", "Job kickoff", "Scorecard", "Interview plan", "Job Post" and "Email notifications".

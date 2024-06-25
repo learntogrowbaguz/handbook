@@ -8,23 +8,20 @@ Every department has created a framework for roles within their group. Each fram
 
 This page is maintained by our [Talent and People Team](../../departments/people-talent/index.md).
 
-## Customer Engineering & Support
+## Technical Success
 
-- **Customer Support**
-  - [Support Career Growth](../../departments/technical-success/support/career-growth/index.md)
-  - [Customer support career framework & levels](../../departments/technical-success/support/career-growth/cs-career-framework.md)
-- **Customer Engineering**
-  - [Customer engineering framework & levels](../../departments/technical-success/ce/career-growth/index.md)
+- [Support engineering career development framework](../../departments/technical-success/support/career-growth/cs-career-framework.md)
+- [Customer engineering career development framework](../../departments/technical-success/ce/career-growth/index.md)
+- [Technical advisory career development framework](../../departments/technical-success/ta/enterprise-success/career-growth/ta-career-development.md)
 
 ## Engineering
 
-- Software Engineering
-  - [Engineering career development](../../departments/engineering/dev/career-development/index.md)
-  - [Engineering career development framework](../../departments/engineering/dev/career-development/framework.md)
-- Product
-  - [Product Management career development framework](../../departments/engineering/product/career-development/framework.md)
-- Design
-  - [Design career development framework](../../departments/engineering/design/career-development.md)
+- [Engineering career development framework](../../departments/engineering/dev/career-development/framework.md)
+
+## Product
+
+- [Product Management career development framework](../../departments/product/career-development/framework.md)
+- [Design career development framework](../../departments/product/design/career-development.md)
 
 ## Legal
 
@@ -34,7 +31,6 @@ This page is maintained by our [Talent and People Team](../../departments/people
 
 - [Comms career development framework](../../departments/marketing/career-development/comms-framework.md)
 - [Product Marketing career development framework](../../departments/marketing/career-development/product-marketing-framework.md)
-- [Customer Marketing career development framework](../../departments/marketing/career-development/customer-marketing-framework.md)
 
 ## Operations
 

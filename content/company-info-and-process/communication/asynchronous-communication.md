@@ -42,7 +42,7 @@ https://console.cloud.google.com/storage/browser/sourcegraph-assets/handbook/asy
 
 **We encourage thoughtful decision-making.** A great benefit of async work is the time people get to reflect instead of responding in the moment. We often have a better response or contribution to a discussion when we take a step back and think about things.
 
-**We care about [mental health](../../benefits-pay-perks/benefits-perks/mental-health/index.md).** Working from home with teammates all across different time zones can set the expectation of being responsive most of the day, making it difficult to maintain boundaries, leaving little time for deep, focused work, and becoming a source of stress and burnout for many people. Async work helps everyone understand that team members could be offline at any time meaning instant replies are not expected. One benefit of asynchronous work can be larger amounts of uninterrupted time, enabling teammates to gain more breathing room to do their jobs well without the constant stress of pivoting and being “on” for others, leading to a more balanced workday and mindset.
+**We care about [mental health](../../departments/people-talent/total-rewards/mental-health.md)** Working from home with teammates all across different time zones can set the expectation of being responsive most of the day, making it difficult to maintain boundaries, leaving little time for deep, focused work, and becoming a source of stress and burnout for many people. Async work helps everyone understand that team members could be offline at any time meaning instant replies are not expected. One benefit of asynchronous work can be larger amounts of uninterrupted time, enabling teammates to gain more breathing room to do their jobs well without the constant stress of pivoting and being “on” for others, leading to a more balanced workday and mindset.
 
 **We value [high agency](../values/index.md#high-agency).** Teammates have the power and the responsibility to improve Sourcegraph as a company and as a product. We don’t want people to wait for a meeting to have a conversation that would define their work or depend on someone else’s schedule to be productive. Teammates are encouraged to achieve results when it best suits them without waiting for others’ permission to do so.
 
@@ -122,10 +122,6 @@ Be mindful:
 - [Default to using public channels for work-related discussion](../communication/team_chat.md#avoid-private-messages). Even if you intend a message for someone specific, other team members may benefit from reading the discussion or may be able to contribute to it. If you have a question, you may get an answer more quickly from someone in your own time zone than if you DM someone outside of their working hours.
 
 Finally, remember Slack is _not_ a source of truth. Something said or mentioned in Slack, does not automatically make it true. It should follow the process of being discussed as an artifact and merged to a source of truth like any other decision.
-
-### Workshops
-
-The design team has a framework for running [large, async workshops](../../departments/engineering/design/workshops/async-design.md) that could be adapted to other purposes.
 
 ### When to use sync meetings
 

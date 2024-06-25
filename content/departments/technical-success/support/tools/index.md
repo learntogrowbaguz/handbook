@@ -9,7 +9,6 @@ When you first start in support, the list of tools to set-up can feel like a lot
 - Zoom is how we connect synchronously.
 - Gmail is mostly for notifications.
 - Google calendar is for your calendar, as well as shared calendars (like the CS team calendar).
-- Asana is for our project tracking as a team
 - Gsuite is for drafts, slide decks, and spreadsheets.
 - Lattice is to facilitate our twice yearly [review cycles](../../../people-talent/people-ops/process/teammate-sentiment/impact-reviews/index.md).
 - Greenhouse is for hiring.
@@ -29,13 +28,15 @@ When you first start in support, the list of tools to set-up can feel like a lot
 
 ## sourcegraph.com admin access
 
-In order to have good security and risk mitigation practices, only a subset of the team has admin access to sourcegraph.com. If you need to help a customer and it requires such access, post in our #customer-support-internal Slack channel and @ mention Stompy and/or Warren. One of them can help!
+- In Entitle, request the Dotcom site admin permission. You may do this using the /access_request Slack command or this pre-filled request.
+- Go to https://sourcegraph.com/sign-in?sourcegraph-operator
+- Click on Other login methods
+- Click on Continue with Sourcegraph Operators
+- Authenticate with Okta
 
 ## Managed instance access
 
-In order to have good security and risk mitigation practices, only a subset of the team has [access to managed instances](../process/support-managed-instances.md) (you can find which customers have a managed instance [here](../process/customer-exceptions.md)). If you need to access logs for these customers, post in our #customer-support-internal Slack channel and @ mention Jason and/or Mariam. One of them can help! If it's a p1 issue and none of them are available, simply request the logs in the #delivery Slack channel from the Delivery team.
-
-Read more about working with managed instances [here](../process/support-managed-instances.md).
+Refer to the [managed instance dashboard](https://cloud-ops.sgdev.org/dashboard/environments/prod). You can find specific instructions for requesting access to the respective Cloud infrastructure via the "Ops" link provided in the dashboard. Access permissions are managed through [Entitle](../../../security/tooling/entitle.md).
 
 ## Test Environments
 
@@ -43,12 +44,11 @@ There are some test environments created specifically for the CS team to run tes
 
 #### External DNS Sourcegraph Instances
 
-- [Test instance deployed with Docker Compose](https://cse-aws-test.sgdev.org/) ([_management doc_](../process/managing-cs-aws.md))
 - [Test instance deployed with Kubernetes](https://cse-k8s.sgdev.org/) ([_management doc_](../process/managing-cs-k8s.md))
 
-> Note: For the above test instances Oauth based sign-in methods may be subject to change during testing. If you've signed up for an account via Oauth make sure to create a password for use with the builtin sign-in method. You can accomplish this under your user settings at _https://cse-aws-test.sgdev.org/users/$username/settings/security_. This interface is under your user settings.
+> [!NOTE] For the above test instances Oauth based sign-in methods may be subject to change during testing. If you've signed up for an account via Oauth make sure to create a password for use with the builtin sign-in method. You can accomplish this under your user settings at _https://cse-k8s.sgdev.org/users/$username/settings/security_. This interface is under your user settings.
 
-Add a maintenance [notice](https://docs.sourcegraph.com/admin/config/settings#notices) to the Global settings if you are testing, experimenting or upgrading [cse-k8s](https://cse-k8s.sgdev.org) or [cse-aws-test](https://cse-aws-test.sgdev.org).
+Add a maintenance [notice](https://docs.sourcegraph.com/admin/config/settings#notices) to the Global settings if you are testing, experimenting or upgrading [cse-k8s](https://cse-k8s.sgdev.org).
 
 ```
 "notices": [
@@ -68,26 +68,31 @@ Add a maintenance [notice](https://docs.sourcegraph.com/admin/config/settings#no
 #### Code Host Instances
 
 - [GitHub Enterprise test instance ](https://ghe.sgdev.org/)
+- [GitLab Self-Hosted ](https://gitlab.sgdev.org/)
 - [Gerrit test instance ](https://gerrit.sgdev.org/)
 - [Bitbucket test instance ](https://bitbucket.sgdev.org/)
 - [Phabricator test instance ](https://phabricator.sgdev.org/)
 - [Dogfood Perforce instance](../process/p4-enablement.md)
 
-> NOTE: You can find all the login credentials for the test instances in your 1Password account.
+> [!NOTE] You can find all the login credentials for the test instances in your 1Password account.
 
-> NOTE: It is not advised to use a personal AWS account for testing. Reach out to #delivery to be added to the Sourcegraph org on AWS
+> [!NOTE] It is not advised to use a personal AWS account for testing. Reach out to #delivery to be added to the Sourcegraph org on AWS
 
 ## Troubleshooting
 
-> WARNING: Please make sure that if any tools are sent to customers that they are approved external tools to be used by them. There are certain tools with licenses that Google and other companies deem inappropriate and could get them and us into issues.
+> [!WARNING] Please make sure that if any tools are sent to customers that they are approved external tools to be used by them. There are certain tools with licenses that Google and other companies deem inappropriate and could get them and us into issues.
 >
 > If you are ever unsure of the license of a tool or whether it should be used by a customer, don't hesitate to reach out to Support leadership.
+
+### Troubleshooting Guide for Support
+
+The [Zendesk Troubleshooting guide](https://help.sourcegraph.com/hc/en-us/categories/10114719849101-Troubleshooting-Guides) contains set of guides to help the team identify and resolve issues or problems.
 
 ### GitHub Repository for Support Tools
 
 The [Support Tools GitHub Repository](https://github.com/sourcegraph/support-tools-internal) contains tools built by the CS team that provide values when supporting our customers. This repository is private, and you are welcome to add your projects to this repository, but please speak to Aimee about your ideas and plans before development starts to avoid possible conflicts.
 
-> NOTE: Please avoid working directly on the main branch.
+> [!NOTE] Please avoid working directly on the main branch.
 
 [Link to Support Tools GitHub Repository](https://github.com/sourcegraph/support-tools-internal)
 
@@ -120,7 +125,7 @@ Enter your Sourcegraph.com access token and click "Submit".
 
 Creating customized scripts can help automate a repetitive task for the team and the customers. You can find all the existing scripts in this [directory](https://github.com/sourcegraph/support-scripts) and are welcome to write and share your own custom scripts with the team.
 
-> WARNING: This is a **public** repository. Please \*_do not_ add any private information to any part of the repository, including the names of our customers.
+> [!WARNING] This is a **public** repository. Please \*_do not_ add any private information to any part of the repository, including the names of our customers.
 
 [Link to GitHub Repository for Scripts](https://github.com/sourcegraph/support-scripts)
 

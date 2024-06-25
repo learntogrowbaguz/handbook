@@ -17,7 +17,7 @@ In preparation for your Calibration Session with your People Partner, all Manage
 5. Review the below resources:
 
 - Read this entire handbook page start to finish and educate yourself on ["mitigating unconcious bias"](#mitigating-unconscious-bias)
-- Review our [new rating definitions](../teammate-sentiment/impact-reviews/index.md#the-talent-assessment-framework) and have a clear understanding of the difference between Distinguised Performance, Superior Performance, Meets Performance Expectations, Partially Successful Performance, and Unsuccessful Performance.
+- Review our [new rating definitions](../teammate-sentiment/impact-reviews/index.md#the-talent-assessment-framework) and have a clear understanding of the difference between Distinguished Performance, Superior Performance, Meets Performance Expectations, Partially Successful Performance, and Unsuccessful Performance.
 - Watch this [calibration training](https://sourcegraph.continu.co/#/view/videos/642213c5bfa8373fc261ed6a) video
 - Review your team's [career framework](../../../../../company-info-and-process/working-at-sourcegraph/career-frameworks.md) to ensure you're well versed on levels... you can also review our [company-wide level framework here](../../../../../benefits-pay-perks/pay-expenses/compensation/leveling-guide.md#job-levels-at-sourcegraph)
 
@@ -45,12 +45,12 @@ Performance calibrations provide an opportunity to review and calibrate performa
    1. Participating Managers will ask clarifying questions, provide feedback/insight, either challenging or confirming the Teammate’s placement. See [participant expectations](#part-2-participant-expectations).
    2. Managers/Calibration Participants align on scores for Teammates discussed. See [details on aligning on score](#part-3-aligning-on-the-scores).
 
-2. **Calibrate `2` Ratings:** Managers will explain the rating assessment of each Teammate in correspondence to their level and for those Teammates that received a _1 - Superior Performance_ category for performance, validating the placement with tangible examples. [More details](#part-1-discussion).
+2. **Calibrate `2` Ratings:** Managers will explain the rating assessment of each Teammate in correspondence to their level and for those Teammates that received a _2 - Superior Performance_ category for performance, validating the placement with tangible examples. [More details](#part-1-discussion).
 
    1. Participating Managers will ask clarifying questions, provide feedback/insight, either challenging or confirming the Teammate’s placement. See [participant expectations](#part-2-participant-expectations).
    2. Managers/Calibration Participants align on scores for Teammates discussed. See [details on aligning on score](#part-3-aligning-on-the-scores).
 
-3. **Calibrate `4` Ratings:** Managers will explain the rating assessment of each Teammate in correspondence to their level and for those Teammates that received a _1 - Partially Successful Performance_ category for performance, validating the placement with tangible examples. [More details](#part-1-discussion).
+3. **Calibrate `4` Ratings:** Managers will explain the rating assessment of each Teammate in correspondence to their level and for those Teammates that received a _4 - Partially Successful Performance_ category for performance, validating the placement with tangible examples. [More details](#part-1-discussion).
 
    1. Participating Managers will ask clarifying questions, provide feedback/insight, either challenging or confirming the Teammate’s placement. See [participant expectations](#part-2-participant-expectations).
    2. Managers/Calibration Participants align on scores for Teammates discussed. See [details on aligning on score](#part-3-aligning-on-the-scores).
